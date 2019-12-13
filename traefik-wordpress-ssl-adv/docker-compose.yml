@@ -1,0 +1,56 @@
+version: '3.3'
+
+services:
+    traefik:
+      image: traefik:alpine
+      ports:
+        - 80:80
+        - 443:443
+        - 8080:8080
+      volumes:
+        - $PWD/traefik/config:/etc/traefik
+        - /var/run/docker.sock:/var/run/docker.sock
+
+    db:
+      image: mysql:5.7
+      volumes:
+        - db_data:/var/lib/mysql
+      restart: always
+      environment:
+        MYSQL_ROOT_PASSWORD=$MYSQL_PASS
+        MYSQL_DATABASE=$MYSQL_DBNAME
+        MYSQL_USER=$MYSQL_USER
+        MYSQL_PASSWORD=$MYSQL_PASS
+
+    phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      container_name: phpMyAdmin
+      restart: always
+      labels:
+      - "traefik.frontend.rule=Host:$DB_DOMAIN"
+      environment:        
+      - PMA_ARBITRARY=1
+      depends_on:
+      - db
+
+    wordpress:
+      depends_on:
+        - db
+      image: wordpress:latest
+      ports:
+        - 8000:80
+      restart: always
+      environment:
+        WORDPRESS_DB_HOST=$DB_HOST
+        WORDPRESS_DB_NAME=$DB_NAME
+        WORDPRESS_TABLE_PREFIX=$DB_PREFIX
+        WORDPRESS_DB_USER=$DB_USER
+        WORDPRESS_DB_PASSWORD=$DB_PASSWORD
+      volumes:
+        - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+        - ./wp-app:/var/www/html # Full wordpress project
+      labels:
+        - traefik.enable=true
+        - "traefik.frontend.rule=Host:$WORDPRESS_DOMAIN"
+volumes:
+    db_data: {}

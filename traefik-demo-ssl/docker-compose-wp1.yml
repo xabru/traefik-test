@@ -1,0 +1,110 @@
+version: '2.4'
+
+services:
+  edge:
+    image: traefik:1.7.7
+    command:
+      - "--entryPoints=Name:http Address::80 Redirect.EntryPoint:https"
+      - "--entryPoints=Name:https Address::443 TLS"
+      - "--defaultEntryPoints=https,http"
+      - "--acme.entryPoint=https" 
+      - "--acme.email=csnzlatino@gmail.com" 
+      - "--acme.storage=acme.json"       
+      - "--acme.tlsChallenge=true"        
+      - "--acme.onHostRule=true"          
+      - "--docker"
+    labels:
+      - "traefik.enable=false"
+    ports:
+      - "80:80" 
+      - "443:443" 
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - webgateway    
+  # web:
+  #   build: ./web/
+  #   labels:
+  #     - "traefik.frontend.rule=Host:2v2.co"
+
+  ttyd:
+    image: tsl0922/ttyd
+    labels:
+      - "traefik.frontend.rule=Host:2v2.co;PathPrefixStrip:/ttyd"
+
+  db:
+    container_name: mysql
+    image: mysql:5.7
+    volumes:
+      - wp_db:/var/lib/mysql/
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: csnzlatino
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: csnzlatino
+    networks:
+    - wp
+
+  wordpress:
+    depends_on:
+      - db
+    container_name: wordpress
+    image: wordpress:latest
+    volumes:
+      - wp_statics:/var/www/html/
+    ports:
+      - 8000:80
+    restart: always
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: csnzlatino
+    networks:
+    - wp
+    - webgateway
+    labels:
+    - "traefik.docker.network=traefik"
+    - "traefik.backend=2v2"
+    - "traefik.frontend.rule=Host:2v2.co"
+    - "traefik.port=80"
+
+  phpmyadmin:
+    depends_on:
+      - db
+    image: phpmyadmin/phpmyadmin
+    restart: always
+    ports:
+      - 7777:80
+    environment:
+      PMA_HOST: db
+      MYSQL_ROOT_PASSWORD: csnzlatino 
+    labels:
+    - "traefik.docker.network=traefik"
+    - "traefik.backend=phpmyadmin"
+    - "traefik.frontend.rule=Host:phpmyadmin.2v2.co"
+    - "traefik.port=80"
+    networks:
+    - wp
+    - webgateway
+
+
+
+networks:
+  wp:
+  webgateway:
+    driver: bridge
+
+volumes:
+  wp_db:
+    driver: local
+    driver_opts:
+      o: bind
+      type: none
+      device: /srv/wordpress/db
+  wp_statics:
+    driver: local
+    driver_opts:
+      o: bind
+      type: none
+      device: /srv/wordpress/statics
