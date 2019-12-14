@@ -10,6 +10,10 @@ services:
       volumes:
         - $PWD/traefik/config:/etc/traefik
         - /var/run/docker.sock:/var/run/docker.sock
+      labels:
+        - "traefik.enable=true"
+        - "traefik.frontend.rule=Host:$WORDPRESS_DOMAIN; PathPrefixStrip:/traefik"
+        - "traefik.port=8080"
 
     db:
       image: mysql:5.7
@@ -21,17 +25,6 @@ services:
         - MYSQL_DATABASE=$MYSQL_DBNAME
         - MYSQL_USER=$MYSQL_USER
         - MYSQL_PASSWORD=$MYSQL_PASS
-
-    phpmyadmin:
-      image: phpmyadmin/phpmyadmin
-      container_name: phpMyAdmin
-      restart: always
-      labels:
-      - "traefik.frontend.rule=Host:$DB_DOMAIN"
-      environment:        
-      - PMA_ARBITRARY=1
-      depends_on:
-      - db
 
     wordpress:
       depends_on:
