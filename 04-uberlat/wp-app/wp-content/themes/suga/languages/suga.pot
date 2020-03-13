@@ -1,0 +1,4216 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: suga v1.0\n"
+"POT-Creation-Date: 2019-11-11 14:40+0700\n"
+"PO-Revision-Date: 2018-09-29 01:01+0700\n"
+"Last-Translator: linhnguyen <kid.team@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;_n;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../404.php:37 ../coming_soon.php:70
+#: ../library/templates/footer/partials/footer-1.php:47
+#: ../library/templates/footer/partials/footer-6.php:31
+#: ../library/templates/header/partials/header-1.php:56
+#: ../library/templates/header/partials/header-1.php:92
+#: ../library/templates/header/partials/header-10.php:41
+#: ../library/templates/header/partials/header-10.php:84
+#: ../library/templates/header/partials/header-2.php:45
+#: ../library/templates/header/partials/header-2.php:79
+#: ../library/templates/header/partials/header-3.php:53
+#: ../library/templates/header/partials/header-3.php:99
+#: ../library/templates/header/partials/header-4.php:39
+#: ../library/templates/header/partials/header-4.php:79
+#: ../library/templates/header/partials/header-5.php:34
+#: ../library/templates/header/partials/header-5.php:79
+#: ../library/templates/header/partials/header-6.php:34
+#: ../library/templates/header/partials/header-6.php:79
+#: ../library/templates/header/partials/header-7.php:75
+#: ../library/templates/header/partials/header-7.php:122
+#: ../library/templates/header/partials/header-8.php:45
+#: ../library/templates/header/partials/header-8.php:91
+#: ../library/templates/header/partials/header-9.php:45
+#: ../library/templates/header/partials/header-9.php:87
+#: ../library/templates/header/suga-sticky-header.php:71
+#: ../library/templates/offcanvas/offcanvas-desktop.php:23
+#: ../library/templates/offcanvas/offcanvas-mobile.php:23
+msgid "logo"
+msgstr ""
+
+#: ../404.php:49 ../404.php:51
+msgid "404"
+msgstr ""
+
+#: ../404.php:64
+msgid "Type here to search"
+msgstr ""
+
+#: ../404.php:65 ../library/templates/header/header-search-dropdown.php:5
+#: ../library/templates/header/header-search-dropdown.php:8
+#: ../library/templates/header/partials/header-1.php:110
+#: ../library/templates/header/partials/header-2.php:97
+#: ../library/templates/header/partials/header-3.php:117
+#: ../library/templates/header/partials/header-4.php:57
+#: ../library/templates/header/partials/header-4.php:123
+#: ../library/templates/header/partials/header-5.php:52
+#: ../library/templates/header/partials/header-6.php:52
+#: ../library/templates/header/partials/header-7.php:140
+#: ../library/templates/header/partials/header-8.php:109
+#: ../library/templates/header/partials/header-9.php:105
+#: ../library/templates/header/suga-sticky-header.php:128 ../searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: ../archive.php:45
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:47
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:47
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:49
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:49
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:51
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:38 ../library/templates/single/suga_single.php:824
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:90 ../comments.php:102
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:62
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:78
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../comments.php:78
+msgid "Required fields are marked"
+msgstr ""
+
+#: ../comments.php:83 ../comments.php:94 ../comments.php:107
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:85 ../comments.php:96
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:86 ../comments.php:97
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:88 ../comments.php:100
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:98
+msgid "Website"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:190
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:202
+msgid "Top Menu"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:203
+msgid "Main Menu"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:204
+msgid "Footer Menu"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:205
+msgid "Offcanvas Menu"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:265 ../library/theme-option.php:1166
+#: ../library/theme-option.php:1790 ../library/theme-option.php:1923
+#: ../library/theme-option.php:2026 ../library/theme-option.php:2157
+#: ../library/theme-option.php:2361 ../library/theme-option.php:2755
+#: ../library/theme-option.php:2921
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:274
+msgid "Desktop OffCanvas Area"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:283
+msgid "Mobile OffCanvas Area"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:292
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:301
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../inc/bk_theme_settings.php:310
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../inc/blocks/suga/suga_feature_slider_b.php:63
+msgid "PREVIOUS"
+msgstr ""
+
+#: ../inc/blocks/suga/suga_feature_slider_b.php:65
+msgid "NEXT"
+msgstr ""
+
+#: ../inc/blocks/suga/suga_grid_c.php:184
+msgid "What"
+msgstr ""
+
+#: ../inc/blocks/suga/suga_grid_c.php:184
+msgid "to read?"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:334
+#: ../inc/libs/suga_tgm_activation.php:142
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:335
+#: ../inc/libs/suga_tgm_activation.php:143
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:337
+#: ../inc/libs/suga_tgm_activation.php:144
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:340
+#: ../inc/libs/suga_tgm_activation.php:145
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:392
+#: ../inc/libs/suga_tgm_activation.php:156
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:393
+#: ../inc/class-tgm-plugin-activation.php:918
+#: ../inc/class-tgm-plugin-activation.php:2624
+#: ../inc/class-tgm-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:394
+#: ../inc/class-tgm-plugin-activation.php:3250
+#: ../inc/libs/suga_tgm_activation.php:157
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:395
+#: ../inc/class-tgm-plugin-activation.php:3043
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:605
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:606
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:723
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1025
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1025
+#: ../inc/class-tgm-plugin-activation.php:1028
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2412
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2433
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2573
+msgid "unknown"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2624
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3600
+#: ../inc/class-tgm-plugin-activation.php:3608
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3600
+#: ../inc/class-tgm-plugin-activation.php:3608
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:8
+msgid "FullWidth Section"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:8
+msgid "Content Section"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:13
+msgid "Suga Feature A"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:26 ../inc/composer/bk_pd_cfg.php:171
+#: ../inc/composer/bk_pd_cfg.php:315 ../inc/composer/bk_pd_cfg.php:457
+#: ../inc/composer/bk_pd_cfg.php:599 ../inc/composer/bk_pd_cfg.php:735
+#: ../inc/composer/bk_pd_cfg.php:892 ../inc/composer/bk_pd_cfg.php:1040
+#: ../inc/composer/bk_pd_cfg.php:1200 ../inc/composer/bk_pd_cfg.php:1346
+#: ../inc/composer/bk_pd_cfg.php:1488 ../inc/composer/bk_pd_cfg.php:1630
+#: ../inc/composer/bk_pd_cfg.php:1767 ../inc/composer/bk_pd_cfg.php:1871
+#: ../inc/composer/bk_pd_cfg.php:1975 ../inc/composer/bk_pd_cfg.php:2079
+#: ../inc/composer/bk_pd_cfg.php:2216 ../inc/composer/bk_pd_cfg.php:2353
+#: ../inc/composer/bk_pd_cfg.php:2489 ../inc/composer/bk_pd_cfg.php:2627
+#: ../inc/composer/bk_pd_cfg.php:2772 ../inc/composer/bk_pd_cfg.php:2951
+#: ../inc/composer/bk_pd_cfg.php:3130 ../inc/composer/bk_pd_cfg.php:3308
+#: ../inc/composer/bk_pd_cfg.php:3486 ../inc/composer/bk_pd_cfg.php:3664
+#: ../inc/composer/bk_pd_cfg.php:3838 ../inc/composer/bk_pd_cfg.php:3886
+#: ../inc/composer/bk_pd_cfg.php:3936 ../inc/composer/bk_pd_cfg.php:4075
+#: ../inc/composer/bk_pd_cfg.php:4220 ../inc/composer/bk_pd_cfg.php:4364
+#: ../inc/composer/bk_pd_cfg.php:4508 ../inc/composer/bk_pd_cfg.php:4686
+#: ../inc/composer/bk_pd_cfg.php:4864 ../inc/composer/bk_pd_cfg.php:5042
+#: ../inc/composer/bk_pd_cfg.php:5220 ../inc/composer/bk_pd_cfg.php:5398
+#: ../inc/composer/bk_pd_cfg.php:5576 ../inc/composer/bk_pd_cfg.php:5750
+#: ../inc/composer/bk_pd_cfg.php:5791
+msgid "Title"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:32 ../inc/composer/bk_pd_cfg.php:177
+#: ../inc/composer/bk_pd_cfg.php:321 ../inc/composer/bk_pd_cfg.php:463
+#: ../inc/composer/bk_pd_cfg.php:605 ../inc/composer/bk_pd_cfg.php:741
+#: ../inc/composer/bk_pd_cfg.php:898 ../inc/composer/bk_pd_cfg.php:1046
+#: ../inc/composer/bk_pd_cfg.php:1206 ../inc/composer/bk_pd_cfg.php:1352
+#: ../inc/composer/bk_pd_cfg.php:1494 ../inc/composer/bk_pd_cfg.php:1636
+#: ../inc/composer/bk_pd_cfg.php:2222 ../inc/composer/bk_pd_cfg.php:2359
+#: ../inc/composer/bk_pd_cfg.php:2495 ../inc/composer/bk_pd_cfg.php:2778
+#: ../inc/composer/bk_pd_cfg.php:2957 ../inc/composer/bk_pd_cfg.php:3136
+#: ../inc/composer/bk_pd_cfg.php:3314 ../inc/composer/bk_pd_cfg.php:3492
+#: ../inc/composer/bk_pd_cfg.php:3670 ../inc/composer/bk_pd_cfg.php:3844
+#: ../inc/composer/bk_pd_cfg.php:3892 ../inc/composer/bk_pd_cfg.php:3942
+#: ../inc/composer/bk_pd_cfg.php:4081 ../inc/composer/bk_pd_cfg.php:4226
+#: ../inc/composer/bk_pd_cfg.php:4370 ../inc/composer/bk_pd_cfg.php:4514
+#: ../inc/composer/bk_pd_cfg.php:4692 ../inc/composer/bk_pd_cfg.php:4870
+#: ../inc/composer/bk_pd_cfg.php:5048 ../inc/composer/bk_pd_cfg.php:5226
+#: ../inc/composer/bk_pd_cfg.php:5404 ../inc/composer/bk_pd_cfg.php:5582
+#: ../inc/composer/bk_pd_cfg.php:5756 ../inc/composer/bk_pd_cfg.php:5797
+msgid "Title Style"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:37 ../inc/composer/bk_pd_cfg.php:182
+#: ../inc/composer/bk_pd_cfg.php:326 ../inc/composer/bk_pd_cfg.php:468
+#: ../inc/composer/bk_pd_cfg.php:610 ../inc/composer/bk_pd_cfg.php:746
+#: ../inc/composer/bk_pd_cfg.php:903 ../inc/composer/bk_pd_cfg.php:1051
+#: ../inc/composer/bk_pd_cfg.php:1211 ../inc/composer/bk_pd_cfg.php:1357
+#: ../inc/composer/bk_pd_cfg.php:1499 ../inc/composer/bk_pd_cfg.php:1641
+#: ../inc/composer/bk_pd_cfg.php:2227 ../inc/composer/bk_pd_cfg.php:2364
+#: ../inc/composer/bk_pd_cfg.php:2500 ../inc/composer/bk_pd_cfg.php:2783
+#: ../inc/composer/bk_pd_cfg.php:2962 ../inc/composer/bk_pd_cfg.php:3141
+#: ../inc/composer/bk_pd_cfg.php:3319 ../inc/composer/bk_pd_cfg.php:3497
+#: ../inc/composer/bk_pd_cfg.php:3675 ../inc/composer/bk_pd_cfg.php:3849
+#: ../inc/composer/bk_pd_cfg.php:3897 ../inc/composer/bk_pd_cfg.php:3947
+#: ../inc/composer/bk_pd_cfg.php:4086 ../inc/composer/bk_pd_cfg.php:4231
+#: ../inc/composer/bk_pd_cfg.php:4375 ../inc/composer/bk_pd_cfg.php:4519
+#: ../inc/composer/bk_pd_cfg.php:4697 ../inc/composer/bk_pd_cfg.php:4875
+#: ../inc/composer/bk_pd_cfg.php:5053 ../inc/composer/bk_pd_cfg.php:5231
+#: ../inc/composer/bk_pd_cfg.php:5409 ../inc/composer/bk_pd_cfg.php:5587
+#: ../inc/composer/bk_pd_cfg.php:5761 ../inc/composer/bk_pd_cfg.php:5802
+msgid "Default - From Theme Option"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:38 ../inc/composer/bk_pd_cfg.php:183
+#: ../inc/composer/bk_pd_cfg.php:327 ../inc/composer/bk_pd_cfg.php:469
+#: ../inc/composer/bk_pd_cfg.php:611 ../inc/composer/bk_pd_cfg.php:747
+#: ../inc/composer/bk_pd_cfg.php:904 ../inc/composer/bk_pd_cfg.php:1052
+#: ../inc/composer/bk_pd_cfg.php:1212 ../inc/composer/bk_pd_cfg.php:1358
+#: ../inc/composer/bk_pd_cfg.php:1500 ../inc/composer/bk_pd_cfg.php:1642
+#: ../inc/composer/bk_pd_cfg.php:2228 ../inc/composer/bk_pd_cfg.php:2365
+#: ../inc/composer/bk_pd_cfg.php:2501 ../inc/composer/bk_pd_cfg.php:2784
+#: ../inc/composer/bk_pd_cfg.php:2963 ../inc/composer/bk_pd_cfg.php:3142
+#: ../inc/composer/bk_pd_cfg.php:3320 ../inc/composer/bk_pd_cfg.php:3498
+#: ../inc/composer/bk_pd_cfg.php:3676 ../inc/composer/bk_pd_cfg.php:3850
+#: ../inc/composer/bk_pd_cfg.php:3898 ../inc/composer/bk_pd_cfg.php:3948
+#: ../inc/composer/bk_pd_cfg.php:4087 ../inc/composer/bk_pd_cfg.php:4232
+#: ../inc/composer/bk_pd_cfg.php:4376 ../inc/composer/bk_pd_cfg.php:4520
+#: ../inc/composer/bk_pd_cfg.php:4698 ../inc/composer/bk_pd_cfg.php:4876
+#: ../inc/composer/bk_pd_cfg.php:5054 ../inc/composer/bk_pd_cfg.php:5232
+#: ../inc/composer/bk_pd_cfg.php:5410 ../inc/composer/bk_pd_cfg.php:5588
+#: ../inc/composer/bk_pd_cfg.php:5762 ../inc/composer/bk_pd_cfg.php:5803
+#: ../library/meta_box_config.php:55 ../library/meta_box_config.php:278
+#: ../library/meta_box_config.php:377 ../library/meta_box_config.php:469
+#: ../library/meta_box_config.php:576 ../library/meta_box_config.php:927
+#: ../library/meta_box_config.php:1057 ../library/theme-option.php:392
+#: ../library/theme-option.php:421 ../library/theme-option.php:1364
+#: ../library/theme-option.php:1450 ../library/theme-option.php:1539
+#: ../library/theme-option.php:1616 ../library/theme-option.php:1708
+#: ../library/theme-option.php:1852 ../library/theme-option.php:2086
+#: ../library/theme-option.php:2301 ../library/theme-option.php:2711
+#: ../library/theme-option.php:2817
+msgid "Heading Line"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:39 ../inc/composer/bk_pd_cfg.php:184
+#: ../inc/composer/bk_pd_cfg.php:328 ../inc/composer/bk_pd_cfg.php:470
+#: ../inc/composer/bk_pd_cfg.php:612 ../inc/composer/bk_pd_cfg.php:748
+#: ../inc/composer/bk_pd_cfg.php:905 ../inc/composer/bk_pd_cfg.php:1053
+#: ../inc/composer/bk_pd_cfg.php:1213 ../inc/composer/bk_pd_cfg.php:1359
+#: ../inc/composer/bk_pd_cfg.php:1501 ../inc/composer/bk_pd_cfg.php:1643
+#: ../inc/composer/bk_pd_cfg.php:2229 ../inc/composer/bk_pd_cfg.php:2366
+#: ../inc/composer/bk_pd_cfg.php:2502 ../inc/composer/bk_pd_cfg.php:2785
+#: ../inc/composer/bk_pd_cfg.php:2964 ../inc/composer/bk_pd_cfg.php:3143
+#: ../inc/composer/bk_pd_cfg.php:3321 ../inc/composer/bk_pd_cfg.php:3499
+#: ../inc/composer/bk_pd_cfg.php:3677 ../inc/composer/bk_pd_cfg.php:3851
+#: ../inc/composer/bk_pd_cfg.php:3899 ../inc/composer/bk_pd_cfg.php:3949
+#: ../inc/composer/bk_pd_cfg.php:4088 ../inc/composer/bk_pd_cfg.php:4233
+#: ../inc/composer/bk_pd_cfg.php:4377 ../inc/composer/bk_pd_cfg.php:4521
+#: ../inc/composer/bk_pd_cfg.php:4699 ../inc/composer/bk_pd_cfg.php:4877
+#: ../inc/composer/bk_pd_cfg.php:5055 ../inc/composer/bk_pd_cfg.php:5233
+#: ../inc/composer/bk_pd_cfg.php:5411 ../inc/composer/bk_pd_cfg.php:5589
+#: ../inc/composer/bk_pd_cfg.php:5763 ../inc/composer/bk_pd_cfg.php:5804
+#: ../library/meta_box_config.php:56 ../library/meta_box_config.php:928
+#: ../library/meta_box_config.php:1058 ../library/theme-option.php:393
+#: ../library/theme-option.php:1365 ../library/theme-option.php:1451
+#: ../library/theme-option.php:1540 ../library/theme-option.php:1617
+#: ../library/theme-option.php:1709 ../library/theme-option.php:1853
+#: ../library/theme-option.php:2087 ../library/theme-option.php:2302
+#: ../library/theme-option.php:2712 ../library/theme-option.php:2818
+msgid "Heading Large Line"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:40 ../inc/composer/bk_pd_cfg.php:185
+#: ../inc/composer/bk_pd_cfg.php:329 ../inc/composer/bk_pd_cfg.php:471
+#: ../inc/composer/bk_pd_cfg.php:613 ../inc/composer/bk_pd_cfg.php:749
+#: ../inc/composer/bk_pd_cfg.php:906 ../inc/composer/bk_pd_cfg.php:1054
+#: ../inc/composer/bk_pd_cfg.php:1214 ../inc/composer/bk_pd_cfg.php:1360
+#: ../inc/composer/bk_pd_cfg.php:1502 ../inc/composer/bk_pd_cfg.php:1644
+#: ../inc/composer/bk_pd_cfg.php:2230 ../inc/composer/bk_pd_cfg.php:2367
+#: ../inc/composer/bk_pd_cfg.php:2503 ../inc/composer/bk_pd_cfg.php:2786
+#: ../inc/composer/bk_pd_cfg.php:2965 ../inc/composer/bk_pd_cfg.php:3144
+#: ../inc/composer/bk_pd_cfg.php:3322 ../inc/composer/bk_pd_cfg.php:3500
+#: ../inc/composer/bk_pd_cfg.php:3678 ../inc/composer/bk_pd_cfg.php:3852
+#: ../inc/composer/bk_pd_cfg.php:3900 ../inc/composer/bk_pd_cfg.php:3950
+#: ../inc/composer/bk_pd_cfg.php:4089 ../inc/composer/bk_pd_cfg.php:4234
+#: ../inc/composer/bk_pd_cfg.php:4378 ../inc/composer/bk_pd_cfg.php:4522
+#: ../inc/composer/bk_pd_cfg.php:4700 ../inc/composer/bk_pd_cfg.php:4878
+#: ../inc/composer/bk_pd_cfg.php:5056 ../inc/composer/bk_pd_cfg.php:5234
+#: ../inc/composer/bk_pd_cfg.php:5412 ../inc/composer/bk_pd_cfg.php:5590
+#: ../inc/composer/bk_pd_cfg.php:5764 ../inc/composer/bk_pd_cfg.php:5805
+#: ../library/meta_box_config.php:57 ../library/meta_box_config.php:279
+#: ../library/meta_box_config.php:378 ../library/meta_box_config.php:470
+#: ../library/meta_box_config.php:577 ../library/meta_box_config.php:929
+#: ../library/meta_box_config.php:1059 ../library/theme-option.php:394
+#: ../library/theme-option.php:422 ../library/theme-option.php:1366
+#: ../library/theme-option.php:1452 ../library/theme-option.php:1541
+#: ../library/theme-option.php:1618 ../library/theme-option.php:1710
+#: ../library/theme-option.php:1854 ../library/theme-option.php:2088
+#: ../library/theme-option.php:2303 ../library/theme-option.php:2713
+#: ../library/theme-option.php:2819
+msgid "Heading No Line"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:41 ../inc/composer/bk_pd_cfg.php:186
+#: ../inc/composer/bk_pd_cfg.php:330 ../inc/composer/bk_pd_cfg.php:472
+#: ../inc/composer/bk_pd_cfg.php:614 ../inc/composer/bk_pd_cfg.php:750
+#: ../inc/composer/bk_pd_cfg.php:907 ../inc/composer/bk_pd_cfg.php:1055
+#: ../inc/composer/bk_pd_cfg.php:1215 ../inc/composer/bk_pd_cfg.php:1361
+#: ../inc/composer/bk_pd_cfg.php:1503 ../inc/composer/bk_pd_cfg.php:1645
+#: ../inc/composer/bk_pd_cfg.php:2231 ../inc/composer/bk_pd_cfg.php:2368
+#: ../inc/composer/bk_pd_cfg.php:2504 ../inc/composer/bk_pd_cfg.php:2787
+#: ../inc/composer/bk_pd_cfg.php:2966 ../inc/composer/bk_pd_cfg.php:3145
+#: ../inc/composer/bk_pd_cfg.php:3323 ../inc/composer/bk_pd_cfg.php:3501
+#: ../inc/composer/bk_pd_cfg.php:3679 ../inc/composer/bk_pd_cfg.php:3853
+#: ../inc/composer/bk_pd_cfg.php:3901 ../inc/composer/bk_pd_cfg.php:3951
+#: ../inc/composer/bk_pd_cfg.php:4090 ../inc/composer/bk_pd_cfg.php:4235
+#: ../inc/composer/bk_pd_cfg.php:4379 ../inc/composer/bk_pd_cfg.php:4523
+#: ../inc/composer/bk_pd_cfg.php:4701 ../inc/composer/bk_pd_cfg.php:4879
+#: ../inc/composer/bk_pd_cfg.php:5057 ../inc/composer/bk_pd_cfg.php:5235
+#: ../inc/composer/bk_pd_cfg.php:5413 ../inc/composer/bk_pd_cfg.php:5591
+#: ../inc/composer/bk_pd_cfg.php:5765 ../inc/composer/bk_pd_cfg.php:5806
+#: ../library/meta_box_config.php:58 ../library/meta_box_config.php:930
+#: ../library/meta_box_config.php:1060 ../library/theme-option.php:395
+#: ../library/theme-option.php:1367 ../library/theme-option.php:1453
+#: ../library/theme-option.php:1542 ../library/theme-option.php:1619
+#: ../library/theme-option.php:1711 ../library/theme-option.php:1855
+#: ../library/theme-option.php:2089 ../library/theme-option.php:2304
+#: ../library/theme-option.php:2714 ../library/theme-option.php:2820
+msgid "Heading Large No Line"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:42 ../inc/composer/bk_pd_cfg.php:187
+#: ../inc/composer/bk_pd_cfg.php:331 ../inc/composer/bk_pd_cfg.php:473
+#: ../inc/composer/bk_pd_cfg.php:615 ../inc/composer/bk_pd_cfg.php:751
+#: ../inc/composer/bk_pd_cfg.php:908 ../inc/composer/bk_pd_cfg.php:1056
+#: ../inc/composer/bk_pd_cfg.php:1216 ../inc/composer/bk_pd_cfg.php:1362
+#: ../inc/composer/bk_pd_cfg.php:1504 ../inc/composer/bk_pd_cfg.php:1646
+#: ../inc/composer/bk_pd_cfg.php:2232 ../inc/composer/bk_pd_cfg.php:2369
+#: ../inc/composer/bk_pd_cfg.php:2505 ../inc/composer/bk_pd_cfg.php:2788
+#: ../inc/composer/bk_pd_cfg.php:2967 ../inc/composer/bk_pd_cfg.php:3146
+#: ../inc/composer/bk_pd_cfg.php:3324 ../inc/composer/bk_pd_cfg.php:3502
+#: ../inc/composer/bk_pd_cfg.php:3680 ../inc/composer/bk_pd_cfg.php:3854
+#: ../inc/composer/bk_pd_cfg.php:3902 ../inc/composer/bk_pd_cfg.php:3952
+#: ../inc/composer/bk_pd_cfg.php:4091 ../inc/composer/bk_pd_cfg.php:4236
+#: ../inc/composer/bk_pd_cfg.php:4380 ../inc/composer/bk_pd_cfg.php:4524
+#: ../inc/composer/bk_pd_cfg.php:4702 ../inc/composer/bk_pd_cfg.php:4880
+#: ../inc/composer/bk_pd_cfg.php:5058 ../inc/composer/bk_pd_cfg.php:5236
+#: ../inc/composer/bk_pd_cfg.php:5414 ../inc/composer/bk_pd_cfg.php:5592
+#: ../inc/composer/bk_pd_cfg.php:5766 ../inc/composer/bk_pd_cfg.php:5807
+#: ../library/meta_box_config.php:59 ../library/meta_box_config.php:280
+#: ../library/meta_box_config.php:379 ../library/meta_box_config.php:471
+#: ../library/meta_box_config.php:578 ../library/meta_box_config.php:931
+#: ../library/meta_box_config.php:1061 ../library/theme-option.php:396
+#: ../library/theme-option.php:423 ../library/theme-option.php:1368
+#: ../library/theme-option.php:1454 ../library/theme-option.php:1543
+#: ../library/theme-option.php:1620 ../library/theme-option.php:1712
+#: ../library/theme-option.php:1856 ../library/theme-option.php:2090
+#: ../library/theme-option.php:2305 ../library/theme-option.php:2715
+#: ../library/theme-option.php:2821
+msgid "Heading Line Under"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:43 ../inc/composer/bk_pd_cfg.php:188
+#: ../inc/composer/bk_pd_cfg.php:332 ../inc/composer/bk_pd_cfg.php:474
+#: ../inc/composer/bk_pd_cfg.php:616 ../inc/composer/bk_pd_cfg.php:752
+#: ../inc/composer/bk_pd_cfg.php:909 ../inc/composer/bk_pd_cfg.php:1057
+#: ../inc/composer/bk_pd_cfg.php:1217 ../inc/composer/bk_pd_cfg.php:1363
+#: ../inc/composer/bk_pd_cfg.php:1505 ../inc/composer/bk_pd_cfg.php:1647
+#: ../inc/composer/bk_pd_cfg.php:2233 ../inc/composer/bk_pd_cfg.php:2370
+#: ../inc/composer/bk_pd_cfg.php:2506 ../inc/composer/bk_pd_cfg.php:2789
+#: ../inc/composer/bk_pd_cfg.php:2968 ../inc/composer/bk_pd_cfg.php:3147
+#: ../inc/composer/bk_pd_cfg.php:3325 ../inc/composer/bk_pd_cfg.php:3503
+#: ../inc/composer/bk_pd_cfg.php:3681 ../inc/composer/bk_pd_cfg.php:3855
+#: ../inc/composer/bk_pd_cfg.php:3903 ../inc/composer/bk_pd_cfg.php:3953
+#: ../inc/composer/bk_pd_cfg.php:4092 ../inc/composer/bk_pd_cfg.php:4237
+#: ../inc/composer/bk_pd_cfg.php:4381 ../inc/composer/bk_pd_cfg.php:4525
+#: ../inc/composer/bk_pd_cfg.php:4703 ../inc/composer/bk_pd_cfg.php:4881
+#: ../inc/composer/bk_pd_cfg.php:5059 ../inc/composer/bk_pd_cfg.php:5237
+#: ../inc/composer/bk_pd_cfg.php:5415 ../inc/composer/bk_pd_cfg.php:5593
+#: ../inc/composer/bk_pd_cfg.php:5767 ../inc/composer/bk_pd_cfg.php:5808
+#: ../library/meta_box_config.php:60 ../library/meta_box_config.php:932
+#: ../library/meta_box_config.php:1062 ../library/theme-option.php:397
+#: ../library/theme-option.php:1369 ../library/theme-option.php:1455
+#: ../library/theme-option.php:1544 ../library/theme-option.php:1621
+#: ../library/theme-option.php:1713 ../library/theme-option.php:1857
+#: ../library/theme-option.php:2091 ../library/theme-option.php:2306
+#: ../library/theme-option.php:2716 ../library/theme-option.php:2822
+msgid "Heading Large Line Under"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:44 ../inc/composer/bk_pd_cfg.php:189
+#: ../inc/composer/bk_pd_cfg.php:333 ../inc/composer/bk_pd_cfg.php:475
+#: ../inc/composer/bk_pd_cfg.php:617 ../inc/composer/bk_pd_cfg.php:753
+#: ../inc/composer/bk_pd_cfg.php:910 ../inc/composer/bk_pd_cfg.php:1058
+#: ../inc/composer/bk_pd_cfg.php:1218 ../inc/composer/bk_pd_cfg.php:1364
+#: ../inc/composer/bk_pd_cfg.php:1506 ../inc/composer/bk_pd_cfg.php:1648
+#: ../inc/composer/bk_pd_cfg.php:2234 ../inc/composer/bk_pd_cfg.php:2371
+#: ../inc/composer/bk_pd_cfg.php:2507 ../inc/composer/bk_pd_cfg.php:2790
+#: ../inc/composer/bk_pd_cfg.php:2969 ../inc/composer/bk_pd_cfg.php:3148
+#: ../inc/composer/bk_pd_cfg.php:3326 ../inc/composer/bk_pd_cfg.php:3504
+#: ../inc/composer/bk_pd_cfg.php:3682 ../inc/composer/bk_pd_cfg.php:3856
+#: ../inc/composer/bk_pd_cfg.php:3904 ../inc/composer/bk_pd_cfg.php:3954
+#: ../inc/composer/bk_pd_cfg.php:4093 ../inc/composer/bk_pd_cfg.php:4238
+#: ../inc/composer/bk_pd_cfg.php:4382 ../inc/composer/bk_pd_cfg.php:4526
+#: ../inc/composer/bk_pd_cfg.php:4704 ../inc/composer/bk_pd_cfg.php:4882
+#: ../inc/composer/bk_pd_cfg.php:5060 ../inc/composer/bk_pd_cfg.php:5238
+#: ../inc/composer/bk_pd_cfg.php:5416 ../inc/composer/bk_pd_cfg.php:5594
+#: ../inc/composer/bk_pd_cfg.php:5768 ../inc/composer/bk_pd_cfg.php:5809
+#: ../library/meta_box_config.php:61 ../library/meta_box_config.php:281
+#: ../library/meta_box_config.php:380 ../library/meta_box_config.php:472
+#: ../library/meta_box_config.php:579 ../library/meta_box_config.php:933
+#: ../library/meta_box_config.php:1063 ../library/theme-option.php:398
+#: ../library/theme-option.php:424 ../library/theme-option.php:1370
+#: ../library/theme-option.php:1456 ../library/theme-option.php:1545
+#: ../library/theme-option.php:1622 ../library/theme-option.php:1714
+#: ../library/theme-option.php:1858 ../library/theme-option.php:2092
+#: ../library/theme-option.php:2307 ../library/theme-option.php:2717
+#: ../library/theme-option.php:2823
+msgid "Heading Center"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:45 ../inc/composer/bk_pd_cfg.php:190
+#: ../inc/composer/bk_pd_cfg.php:334 ../inc/composer/bk_pd_cfg.php:476
+#: ../inc/composer/bk_pd_cfg.php:618 ../inc/composer/bk_pd_cfg.php:754
+#: ../inc/composer/bk_pd_cfg.php:911 ../inc/composer/bk_pd_cfg.php:1059
+#: ../inc/composer/bk_pd_cfg.php:1219 ../inc/composer/bk_pd_cfg.php:1365
+#: ../inc/composer/bk_pd_cfg.php:1507 ../inc/composer/bk_pd_cfg.php:1649
+#: ../inc/composer/bk_pd_cfg.php:2235 ../inc/composer/bk_pd_cfg.php:2372
+#: ../inc/composer/bk_pd_cfg.php:2508 ../inc/composer/bk_pd_cfg.php:2791
+#: ../inc/composer/bk_pd_cfg.php:2970 ../inc/composer/bk_pd_cfg.php:3149
+#: ../inc/composer/bk_pd_cfg.php:3327 ../inc/composer/bk_pd_cfg.php:3505
+#: ../inc/composer/bk_pd_cfg.php:3683 ../inc/composer/bk_pd_cfg.php:3857
+#: ../inc/composer/bk_pd_cfg.php:3905 ../inc/composer/bk_pd_cfg.php:3955
+#: ../inc/composer/bk_pd_cfg.php:4094 ../inc/composer/bk_pd_cfg.php:4239
+#: ../inc/composer/bk_pd_cfg.php:4383 ../inc/composer/bk_pd_cfg.php:4527
+#: ../inc/composer/bk_pd_cfg.php:4705 ../inc/composer/bk_pd_cfg.php:4883
+#: ../inc/composer/bk_pd_cfg.php:5061 ../inc/composer/bk_pd_cfg.php:5239
+#: ../inc/composer/bk_pd_cfg.php:5417 ../inc/composer/bk_pd_cfg.php:5595
+#: ../inc/composer/bk_pd_cfg.php:5769 ../inc/composer/bk_pd_cfg.php:5810
+#: ../library/meta_box_config.php:62 ../library/meta_box_config.php:934
+#: ../library/meta_box_config.php:1064 ../library/theme-option.php:399
+#: ../library/theme-option.php:1371 ../library/theme-option.php:1457
+#: ../library/theme-option.php:1546 ../library/theme-option.php:1623
+#: ../library/theme-option.php:1715 ../library/theme-option.php:1859
+#: ../library/theme-option.php:2093 ../library/theme-option.php:2308
+#: ../library/theme-option.php:2718 ../library/theme-option.php:2824
+msgid "Heading Large Center"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:46 ../inc/composer/bk_pd_cfg.php:191
+#: ../inc/composer/bk_pd_cfg.php:335 ../inc/composer/bk_pd_cfg.php:477
+#: ../inc/composer/bk_pd_cfg.php:619 ../inc/composer/bk_pd_cfg.php:755
+#: ../inc/composer/bk_pd_cfg.php:912 ../inc/composer/bk_pd_cfg.php:1060
+#: ../inc/composer/bk_pd_cfg.php:1220 ../inc/composer/bk_pd_cfg.php:1366
+#: ../inc/composer/bk_pd_cfg.php:1508 ../inc/composer/bk_pd_cfg.php:1650
+#: ../inc/composer/bk_pd_cfg.php:2236 ../inc/composer/bk_pd_cfg.php:2373
+#: ../inc/composer/bk_pd_cfg.php:2509 ../inc/composer/bk_pd_cfg.php:2792
+#: ../inc/composer/bk_pd_cfg.php:2971 ../inc/composer/bk_pd_cfg.php:3150
+#: ../inc/composer/bk_pd_cfg.php:3328 ../inc/composer/bk_pd_cfg.php:3506
+#: ../inc/composer/bk_pd_cfg.php:3684 ../inc/composer/bk_pd_cfg.php:3858
+#: ../inc/composer/bk_pd_cfg.php:3906 ../inc/composer/bk_pd_cfg.php:3956
+#: ../inc/composer/bk_pd_cfg.php:4095 ../inc/composer/bk_pd_cfg.php:4240
+#: ../inc/composer/bk_pd_cfg.php:4384 ../inc/composer/bk_pd_cfg.php:4528
+#: ../inc/composer/bk_pd_cfg.php:4706 ../inc/composer/bk_pd_cfg.php:4884
+#: ../inc/composer/bk_pd_cfg.php:5062 ../inc/composer/bk_pd_cfg.php:5240
+#: ../inc/composer/bk_pd_cfg.php:5418 ../inc/composer/bk_pd_cfg.php:5596
+#: ../inc/composer/bk_pd_cfg.php:5770 ../inc/composer/bk_pd_cfg.php:5811
+#: ../library/meta_box_config.php:63 ../library/meta_box_config.php:282
+#: ../library/meta_box_config.php:381 ../library/meta_box_config.php:473
+#: ../library/meta_box_config.php:580 ../library/meta_box_config.php:935
+#: ../library/meta_box_config.php:1065 ../library/theme-option.php:400
+#: ../library/theme-option.php:425 ../library/theme-option.php:1372
+#: ../library/theme-option.php:1458 ../library/theme-option.php:1547
+#: ../library/theme-option.php:1624 ../library/theme-option.php:1716
+#: ../library/theme-option.php:1860 ../library/theme-option.php:2094
+#: ../library/theme-option.php:2309 ../library/theme-option.php:2719
+#: ../library/theme-option.php:2825
+msgid "Heading Line Around"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:47 ../inc/composer/bk_pd_cfg.php:192
+#: ../inc/composer/bk_pd_cfg.php:336 ../inc/composer/bk_pd_cfg.php:478
+#: ../inc/composer/bk_pd_cfg.php:620 ../inc/composer/bk_pd_cfg.php:756
+#: ../inc/composer/bk_pd_cfg.php:913 ../inc/composer/bk_pd_cfg.php:1061
+#: ../inc/composer/bk_pd_cfg.php:1221 ../inc/composer/bk_pd_cfg.php:1367
+#: ../inc/composer/bk_pd_cfg.php:1509 ../inc/composer/bk_pd_cfg.php:1651
+#: ../inc/composer/bk_pd_cfg.php:2237 ../inc/composer/bk_pd_cfg.php:2374
+#: ../inc/composer/bk_pd_cfg.php:2510 ../inc/composer/bk_pd_cfg.php:2793
+#: ../inc/composer/bk_pd_cfg.php:2972 ../inc/composer/bk_pd_cfg.php:3151
+#: ../inc/composer/bk_pd_cfg.php:3329 ../inc/composer/bk_pd_cfg.php:3507
+#: ../inc/composer/bk_pd_cfg.php:3685 ../inc/composer/bk_pd_cfg.php:3859
+#: ../inc/composer/bk_pd_cfg.php:3907 ../inc/composer/bk_pd_cfg.php:3957
+#: ../inc/composer/bk_pd_cfg.php:4096 ../inc/composer/bk_pd_cfg.php:4241
+#: ../inc/composer/bk_pd_cfg.php:4385 ../inc/composer/bk_pd_cfg.php:4529
+#: ../inc/composer/bk_pd_cfg.php:4707 ../inc/composer/bk_pd_cfg.php:4885
+#: ../inc/composer/bk_pd_cfg.php:5063 ../inc/composer/bk_pd_cfg.php:5241
+#: ../inc/composer/bk_pd_cfg.php:5419 ../inc/composer/bk_pd_cfg.php:5597
+#: ../inc/composer/bk_pd_cfg.php:5771 ../inc/composer/bk_pd_cfg.php:5812
+#: ../library/meta_box_config.php:64 ../library/meta_box_config.php:936
+#: ../library/meta_box_config.php:1066 ../library/theme-option.php:401
+#: ../library/theme-option.php:1373 ../library/theme-option.php:1459
+#: ../library/theme-option.php:1548 ../library/theme-option.php:1625
+#: ../library/theme-option.php:1717 ../library/theme-option.php:1861
+#: ../library/theme-option.php:2095 ../library/theme-option.php:2310
+#: ../library/theme-option.php:2720 ../library/theme-option.php:2826
+msgid "Heading Large Line Around"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:51 ../inc/composer/bk_pd_cfg.php:196
+#: ../inc/composer/bk_pd_cfg.php:340 ../inc/composer/bk_pd_cfg.php:482
+#: ../inc/composer/bk_pd_cfg.php:624 ../inc/composer/bk_pd_cfg.php:770
+#: ../inc/composer/bk_pd_cfg.php:917 ../inc/composer/bk_pd_cfg.php:1065
+#: ../inc/composer/bk_pd_cfg.php:1225 ../inc/composer/bk_pd_cfg.php:1371
+#: ../inc/composer/bk_pd_cfg.php:1513 ../inc/composer/bk_pd_cfg.php:1655
+#: ../inc/composer/bk_pd_cfg.php:2182 ../inc/composer/bk_pd_cfg.php:2241
+#: ../inc/composer/bk_pd_cfg.php:2378 ../inc/composer/bk_pd_cfg.php:2514
+#: ../inc/composer/bk_pd_cfg.php:2650 ../inc/composer/bk_pd_cfg.php:2833
+#: ../inc/composer/bk_pd_cfg.php:3012 ../inc/composer/bk_pd_cfg.php:3191
+#: ../inc/composer/bk_pd_cfg.php:3369 ../inc/composer/bk_pd_cfg.php:3547
+#: ../inc/composer/bk_pd_cfg.php:3725 ../inc/composer/bk_pd_cfg.php:3869
+#: ../inc/composer/bk_pd_cfg.php:3962 ../inc/composer/bk_pd_cfg.php:4101
+#: ../inc/composer/bk_pd_cfg.php:4246 ../inc/composer/bk_pd_cfg.php:4390
+#: ../inc/composer/bk_pd_cfg.php:4569 ../inc/composer/bk_pd_cfg.php:4747
+#: ../inc/composer/bk_pd_cfg.php:4925 ../inc/composer/bk_pd_cfg.php:5103
+#: ../inc/composer/bk_pd_cfg.php:5281 ../inc/composer/bk_pd_cfg.php:5459
+#: ../inc/composer/bk_pd_cfg.php:5637
+msgid "Custom Class [Should be added to the div wrap of the module]"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:52 ../inc/composer/bk_pd_cfg.php:197
+#: ../inc/composer/bk_pd_cfg.php:341 ../inc/composer/bk_pd_cfg.php:483
+#: ../inc/composer/bk_pd_cfg.php:625 ../inc/composer/bk_pd_cfg.php:771
+#: ../inc/composer/bk_pd_cfg.php:918 ../inc/composer/bk_pd_cfg.php:1066
+#: ../inc/composer/bk_pd_cfg.php:1226 ../inc/composer/bk_pd_cfg.php:1372
+#: ../inc/composer/bk_pd_cfg.php:1514 ../inc/composer/bk_pd_cfg.php:1656
+#: ../inc/composer/bk_pd_cfg.php:2183 ../inc/composer/bk_pd_cfg.php:2242
+#: ../inc/composer/bk_pd_cfg.php:2379 ../inc/composer/bk_pd_cfg.php:2515
+#: ../inc/composer/bk_pd_cfg.php:2651 ../inc/composer/bk_pd_cfg.php:2834
+#: ../inc/composer/bk_pd_cfg.php:3013 ../inc/composer/bk_pd_cfg.php:3192
+#: ../inc/composer/bk_pd_cfg.php:3370 ../inc/composer/bk_pd_cfg.php:3548
+#: ../inc/composer/bk_pd_cfg.php:3726 ../inc/composer/bk_pd_cfg.php:3870
+#: ../inc/composer/bk_pd_cfg.php:3963 ../inc/composer/bk_pd_cfg.php:4102
+#: ../inc/composer/bk_pd_cfg.php:4247 ../inc/composer/bk_pd_cfg.php:4391
+#: ../inc/composer/bk_pd_cfg.php:4570 ../inc/composer/bk_pd_cfg.php:4748
+#: ../inc/composer/bk_pd_cfg.php:4926 ../inc/composer/bk_pd_cfg.php:5104
+#: ../inc/composer/bk_pd_cfg.php:5282 ../inc/composer/bk_pd_cfg.php:5460
+#: ../inc/composer/bk_pd_cfg.php:5638
+msgid "[Optional] Separate classes by a space. e.g. class1 class2 class3"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:59 ../inc/composer/bk_pd_cfg.php:204
+#: ../inc/composer/bk_pd_cfg.php:348 ../inc/composer/bk_pd_cfg.php:490
+#: ../inc/composer/bk_pd_cfg.php:778 ../inc/composer/bk_pd_cfg.php:925
+#: ../inc/composer/bk_pd_cfg.php:1073 ../inc/composer/bk_pd_cfg.php:1379
+#: ../inc/composer/bk_pd_cfg.php:1521 ../inc/composer/bk_pd_cfg.php:2658
+#: ../inc/composer/bk_pd_cfg.php:2841 ../inc/composer/bk_pd_cfg.php:3020
+#: ../inc/composer/bk_pd_cfg.php:3199 ../inc/composer/bk_pd_cfg.php:3377
+#: ../inc/composer/bk_pd_cfg.php:3555 ../inc/composer/bk_pd_cfg.php:3733
+#: ../inc/composer/bk_pd_cfg.php:4109 ../inc/composer/bk_pd_cfg.php:4254
+#: ../inc/composer/bk_pd_cfg.php:4398 ../inc/composer/bk_pd_cfg.php:4577
+#: ../inc/composer/bk_pd_cfg.php:4755 ../inc/composer/bk_pd_cfg.php:4933
+#: ../inc/composer/bk_pd_cfg.php:5111 ../inc/composer/bk_pd_cfg.php:5289
+#: ../inc/composer/bk_pd_cfg.php:5467 ../inc/composer/bk_pd_cfg.php:5645
+#: ../library/meta_box_config.php:499 ../library/theme-option.php:1466
+msgid "Number of Posts"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:60 ../inc/composer/bk_pd_cfg.php:205
+#: ../inc/composer/bk_pd_cfg.php:349 ../inc/composer/bk_pd_cfg.php:491
+#: ../inc/composer/bk_pd_cfg.php:779 ../inc/composer/bk_pd_cfg.php:926
+#: ../inc/composer/bk_pd_cfg.php:1074 ../inc/composer/bk_pd_cfg.php:1380
+#: ../inc/composer/bk_pd_cfg.php:1522 ../inc/composer/bk_pd_cfg.php:2659
+#: ../inc/composer/bk_pd_cfg.php:3200 ../inc/composer/bk_pd_cfg.php:3378
+#: ../inc/composer/bk_pd_cfg.php:3556 ../inc/composer/bk_pd_cfg.php:3734
+#: ../inc/composer/bk_pd_cfg.php:4110 ../inc/composer/bk_pd_cfg.php:4255
+#: ../inc/composer/bk_pd_cfg.php:4399 ../inc/composer/bk_pd_cfg.php:4934
+#: ../inc/composer/bk_pd_cfg.php:5112 ../inc/composer/bk_pd_cfg.php:5290
+#: ../inc/composer/bk_pd_cfg.php:5468 ../inc/composer/bk_pd_cfg.php:5646
+msgid "Enter the number of posts"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:66 ../inc/composer/bk_pd_cfg.php:211
+#: ../inc/composer/bk_pd_cfg.php:355 ../inc/composer/bk_pd_cfg.php:497
+#: ../inc/composer/bk_pd_cfg.php:632 ../inc/composer/bk_pd_cfg.php:790
+#: ../inc/composer/bk_pd_cfg.php:938 ../inc/composer/bk_pd_cfg.php:1086
+#: ../inc/composer/bk_pd_cfg.php:1233 ../inc/composer/bk_pd_cfg.php:1386
+#: ../inc/composer/bk_pd_cfg.php:1528 ../inc/composer/bk_pd_cfg.php:1663
+#: ../inc/composer/bk_pd_cfg.php:1774 ../inc/composer/bk_pd_cfg.php:1878
+#: ../inc/composer/bk_pd_cfg.php:1982 ../inc/composer/bk_pd_cfg.php:2086
+#: ../inc/composer/bk_pd_cfg.php:2249 ../inc/composer/bk_pd_cfg.php:2386
+#: ../inc/composer/bk_pd_cfg.php:2522 ../inc/composer/bk_pd_cfg.php:2665
+#: ../inc/composer/bk_pd_cfg.php:2848 ../inc/composer/bk_pd_cfg.php:3027
+#: ../inc/composer/bk_pd_cfg.php:3206 ../inc/composer/bk_pd_cfg.php:3384
+#: ../inc/composer/bk_pd_cfg.php:3562 ../inc/composer/bk_pd_cfg.php:3740
+#: ../inc/composer/bk_pd_cfg.php:3970 ../inc/composer/bk_pd_cfg.php:4116
+#: ../inc/composer/bk_pd_cfg.php:4261 ../inc/composer/bk_pd_cfg.php:4405
+#: ../inc/composer/bk_pd_cfg.php:4584 ../inc/composer/bk_pd_cfg.php:4762
+#: ../inc/composer/bk_pd_cfg.php:4940 ../inc/composer/bk_pd_cfg.php:5118
+#: ../inc/composer/bk_pd_cfg.php:5296 ../inc/composer/bk_pd_cfg.php:5474
+#: ../inc/composer/bk_pd_cfg.php:5652
+msgid "Offset"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:67 ../inc/composer/bk_pd_cfg.php:212
+#: ../inc/composer/bk_pd_cfg.php:356 ../inc/composer/bk_pd_cfg.php:498
+#: ../inc/composer/bk_pd_cfg.php:633 ../inc/composer/bk_pd_cfg.php:791
+#: ../inc/composer/bk_pd_cfg.php:939 ../inc/composer/bk_pd_cfg.php:1087
+#: ../inc/composer/bk_pd_cfg.php:1234 ../inc/composer/bk_pd_cfg.php:1387
+#: ../inc/composer/bk_pd_cfg.php:1529 ../inc/composer/bk_pd_cfg.php:1664
+#: ../inc/composer/bk_pd_cfg.php:1775 ../inc/composer/bk_pd_cfg.php:1879
+#: ../inc/composer/bk_pd_cfg.php:1983 ../inc/composer/bk_pd_cfg.php:2087
+#: ../inc/composer/bk_pd_cfg.php:2250 ../inc/composer/bk_pd_cfg.php:2387
+#: ../inc/composer/bk_pd_cfg.php:2523 ../inc/composer/bk_pd_cfg.php:2666
+#: ../inc/composer/bk_pd_cfg.php:2849 ../inc/composer/bk_pd_cfg.php:3028
+#: ../inc/composer/bk_pd_cfg.php:3207 ../inc/composer/bk_pd_cfg.php:3385
+#: ../inc/composer/bk_pd_cfg.php:3563 ../inc/composer/bk_pd_cfg.php:3741
+#: ../inc/composer/bk_pd_cfg.php:3971 ../inc/composer/bk_pd_cfg.php:4117
+#: ../inc/composer/bk_pd_cfg.php:4262 ../inc/composer/bk_pd_cfg.php:4406
+#: ../inc/composer/bk_pd_cfg.php:4585 ../inc/composer/bk_pd_cfg.php:4763
+#: ../inc/composer/bk_pd_cfg.php:4941 ../inc/composer/bk_pd_cfg.php:5119
+#: ../inc/composer/bk_pd_cfg.php:5297 ../inc/composer/bk_pd_cfg.php:5475
+#: ../inc/composer/bk_pd_cfg.php:5653
+msgid "Enter the offset number"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:73 ../inc/composer/bk_pd_cfg.php:218
+#: ../inc/composer/bk_pd_cfg.php:362 ../inc/composer/bk_pd_cfg.php:504
+#: ../inc/composer/bk_pd_cfg.php:639 ../inc/composer/bk_pd_cfg.php:797
+#: ../inc/composer/bk_pd_cfg.php:945 ../inc/composer/bk_pd_cfg.php:1093
+#: ../inc/composer/bk_pd_cfg.php:1240 ../inc/composer/bk_pd_cfg.php:1393
+#: ../inc/composer/bk_pd_cfg.php:1535 ../inc/composer/bk_pd_cfg.php:1670
+#: ../inc/composer/bk_pd_cfg.php:1781 ../inc/composer/bk_pd_cfg.php:1885
+#: ../inc/composer/bk_pd_cfg.php:1989 ../inc/composer/bk_pd_cfg.php:2093
+#: ../inc/composer/bk_pd_cfg.php:2256 ../inc/composer/bk_pd_cfg.php:2393
+#: ../inc/composer/bk_pd_cfg.php:2529 ../inc/composer/bk_pd_cfg.php:2672
+#: ../inc/composer/bk_pd_cfg.php:2855 ../inc/composer/bk_pd_cfg.php:3034
+#: ../inc/composer/bk_pd_cfg.php:3213 ../inc/composer/bk_pd_cfg.php:3391
+#: ../inc/composer/bk_pd_cfg.php:3569 ../inc/composer/bk_pd_cfg.php:3747
+#: ../inc/composer/bk_pd_cfg.php:3977 ../inc/composer/bk_pd_cfg.php:4123
+#: ../inc/composer/bk_pd_cfg.php:4268 ../inc/composer/bk_pd_cfg.php:4412
+#: ../inc/composer/bk_pd_cfg.php:4591 ../inc/composer/bk_pd_cfg.php:4769
+#: ../inc/composer/bk_pd_cfg.php:4947 ../inc/composer/bk_pd_cfg.php:5125
+#: ../inc/composer/bk_pd_cfg.php:5303 ../inc/composer/bk_pd_cfg.php:5481
+#: ../inc/composer/bk_pd_cfg.php:5659
+msgid "Display featured posts as highest priority"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:74 ../inc/composer/bk_pd_cfg.php:219
+#: ../inc/composer/bk_pd_cfg.php:363 ../inc/composer/bk_pd_cfg.php:505
+#: ../inc/composer/bk_pd_cfg.php:640 ../inc/composer/bk_pd_cfg.php:798
+#: ../inc/composer/bk_pd_cfg.php:946 ../inc/composer/bk_pd_cfg.php:1094
+#: ../inc/composer/bk_pd_cfg.php:1241 ../inc/composer/bk_pd_cfg.php:1394
+#: ../inc/composer/bk_pd_cfg.php:1536 ../inc/composer/bk_pd_cfg.php:1671
+#: ../inc/composer/bk_pd_cfg.php:1782 ../inc/composer/bk_pd_cfg.php:1886
+#: ../inc/composer/bk_pd_cfg.php:1990 ../inc/composer/bk_pd_cfg.php:2094
+#: ../inc/composer/bk_pd_cfg.php:2257 ../inc/composer/bk_pd_cfg.php:2394
+#: ../inc/composer/bk_pd_cfg.php:2530 ../inc/composer/bk_pd_cfg.php:2673
+#: ../inc/composer/bk_pd_cfg.php:2856 ../inc/composer/bk_pd_cfg.php:3035
+#: ../inc/composer/bk_pd_cfg.php:3214 ../inc/composer/bk_pd_cfg.php:3392
+#: ../inc/composer/bk_pd_cfg.php:3570 ../inc/composer/bk_pd_cfg.php:3748
+#: ../inc/composer/bk_pd_cfg.php:3978 ../inc/composer/bk_pd_cfg.php:4124
+#: ../inc/composer/bk_pd_cfg.php:4269 ../inc/composer/bk_pd_cfg.php:4413
+#: ../inc/composer/bk_pd_cfg.php:4592 ../inc/composer/bk_pd_cfg.php:4770
+#: ../inc/composer/bk_pd_cfg.php:4948 ../inc/composer/bk_pd_cfg.php:5126
+#: ../inc/composer/bk_pd_cfg.php:5304 ../inc/composer/bk_pd_cfg.php:5482
+#: ../inc/composer/bk_pd_cfg.php:5660
+msgid "Yes: Display featured posts as highest priority"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:79 ../inc/composer/bk_pd_cfg.php:224
+#: ../inc/composer/bk_pd_cfg.php:368 ../inc/composer/bk_pd_cfg.php:510
+#: ../inc/composer/bk_pd_cfg.php:645 ../inc/composer/bk_pd_cfg.php:803
+#: ../inc/composer/bk_pd_cfg.php:951 ../inc/composer/bk_pd_cfg.php:1099
+#: ../inc/composer/bk_pd_cfg.php:1246 ../inc/composer/bk_pd_cfg.php:1399
+#: ../inc/composer/bk_pd_cfg.php:1541 ../inc/composer/bk_pd_cfg.php:1676
+#: ../inc/composer/bk_pd_cfg.php:1787 ../inc/composer/bk_pd_cfg.php:1842
+#: ../inc/composer/bk_pd_cfg.php:1891 ../inc/composer/bk_pd_cfg.php:1946
+#: ../inc/composer/bk_pd_cfg.php:1995 ../inc/composer/bk_pd_cfg.php:2050
+#: ../inc/composer/bk_pd_cfg.php:2099 ../inc/composer/bk_pd_cfg.php:2154
+#: ../inc/composer/bk_pd_cfg.php:2262 ../inc/composer/bk_pd_cfg.php:2399
+#: ../inc/composer/bk_pd_cfg.php:2535 ../inc/composer/bk_pd_cfg.php:2678
+#: ../inc/composer/bk_pd_cfg.php:2861 ../inc/composer/bk_pd_cfg.php:3040
+#: ../inc/composer/bk_pd_cfg.php:3219 ../inc/composer/bk_pd_cfg.php:3397
+#: ../inc/composer/bk_pd_cfg.php:3575 ../inc/composer/bk_pd_cfg.php:3753
+#: ../inc/composer/bk_pd_cfg.php:3983 ../inc/composer/bk_pd_cfg.php:4129
+#: ../inc/composer/bk_pd_cfg.php:4274 ../inc/composer/bk_pd_cfg.php:4418
+#: ../inc/composer/bk_pd_cfg.php:4597 ../inc/composer/bk_pd_cfg.php:4775
+#: ../inc/composer/bk_pd_cfg.php:4953 ../inc/composer/bk_pd_cfg.php:5131
+#: ../inc/composer/bk_pd_cfg.php:5309 ../inc/composer/bk_pd_cfg.php:5487
+#: ../inc/composer/bk_pd_cfg.php:5665 ../library/meta_box_config.php:916
+#: ../library/theme-option.php:1696
+msgid "No"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:80 ../inc/composer/bk_pd_cfg.php:225
+#: ../inc/composer/bk_pd_cfg.php:369 ../inc/composer/bk_pd_cfg.php:511
+#: ../inc/composer/bk_pd_cfg.php:646 ../inc/composer/bk_pd_cfg.php:804
+#: ../inc/composer/bk_pd_cfg.php:952 ../inc/composer/bk_pd_cfg.php:1100
+#: ../inc/composer/bk_pd_cfg.php:1247 ../inc/composer/bk_pd_cfg.php:1400
+#: ../inc/composer/bk_pd_cfg.php:1542 ../inc/composer/bk_pd_cfg.php:1677
+#: ../inc/composer/bk_pd_cfg.php:1788 ../inc/composer/bk_pd_cfg.php:1843
+#: ../inc/composer/bk_pd_cfg.php:1892 ../inc/composer/bk_pd_cfg.php:1947
+#: ../inc/composer/bk_pd_cfg.php:1996 ../inc/composer/bk_pd_cfg.php:2051
+#: ../inc/composer/bk_pd_cfg.php:2100 ../inc/composer/bk_pd_cfg.php:2155
+#: ../inc/composer/bk_pd_cfg.php:2263 ../inc/composer/bk_pd_cfg.php:2400
+#: ../inc/composer/bk_pd_cfg.php:2536 ../inc/composer/bk_pd_cfg.php:2679
+#: ../inc/composer/bk_pd_cfg.php:2862 ../inc/composer/bk_pd_cfg.php:3041
+#: ../inc/composer/bk_pd_cfg.php:3220 ../inc/composer/bk_pd_cfg.php:3398
+#: ../inc/composer/bk_pd_cfg.php:3576 ../inc/composer/bk_pd_cfg.php:3754
+#: ../inc/composer/bk_pd_cfg.php:3984 ../inc/composer/bk_pd_cfg.php:4130
+#: ../inc/composer/bk_pd_cfg.php:4275 ../inc/composer/bk_pd_cfg.php:4419
+#: ../inc/composer/bk_pd_cfg.php:4598 ../inc/composer/bk_pd_cfg.php:4776
+#: ../inc/composer/bk_pd_cfg.php:4954 ../inc/composer/bk_pd_cfg.php:5132
+#: ../inc/composer/bk_pd_cfg.php:5310 ../inc/composer/bk_pd_cfg.php:5488
+#: ../inc/composer/bk_pd_cfg.php:5666 ../library/meta_box_config.php:915
+#: ../library/theme-option.php:1695
+msgid "Yes"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:84 ../inc/composer/bk_pd_cfg.php:229
+#: ../inc/composer/bk_pd_cfg.php:373 ../inc/composer/bk_pd_cfg.php:515
+#: ../inc/composer/bk_pd_cfg.php:650 ../inc/composer/bk_pd_cfg.php:808
+#: ../inc/composer/bk_pd_cfg.php:956 ../inc/composer/bk_pd_cfg.php:1104
+#: ../inc/composer/bk_pd_cfg.php:1251 ../inc/composer/bk_pd_cfg.php:1404
+#: ../inc/composer/bk_pd_cfg.php:1546 ../inc/composer/bk_pd_cfg.php:1681
+#: ../inc/composer/bk_pd_cfg.php:1792 ../inc/composer/bk_pd_cfg.php:1896
+#: ../inc/composer/bk_pd_cfg.php:2000 ../inc/composer/bk_pd_cfg.php:2104
+#: ../inc/composer/bk_pd_cfg.php:2267 ../inc/composer/bk_pd_cfg.php:2404
+#: ../inc/composer/bk_pd_cfg.php:2540 ../inc/composer/bk_pd_cfg.php:2683
+#: ../inc/composer/bk_pd_cfg.php:2866 ../inc/composer/bk_pd_cfg.php:3045
+#: ../inc/composer/bk_pd_cfg.php:3224 ../inc/composer/bk_pd_cfg.php:3402
+#: ../inc/composer/bk_pd_cfg.php:3580 ../inc/composer/bk_pd_cfg.php:3758
+#: ../inc/composer/bk_pd_cfg.php:3988 ../inc/composer/bk_pd_cfg.php:4134
+#: ../inc/composer/bk_pd_cfg.php:4279 ../inc/composer/bk_pd_cfg.php:4423
+#: ../inc/composer/bk_pd_cfg.php:4602 ../inc/composer/bk_pd_cfg.php:4780
+#: ../inc/composer/bk_pd_cfg.php:4958 ../inc/composer/bk_pd_cfg.php:5136
+#: ../inc/composer/bk_pd_cfg.php:5314 ../inc/composer/bk_pd_cfg.php:5492
+#: ../inc/composer/bk_pd_cfg.php:5670
+msgid "Order By"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:89 ../inc/composer/bk_pd_cfg.php:234
+#: ../inc/composer/bk_pd_cfg.php:378 ../inc/composer/bk_pd_cfg.php:520
+#: ../inc/composer/bk_pd_cfg.php:655 ../inc/composer/bk_pd_cfg.php:813
+#: ../inc/composer/bk_pd_cfg.php:961 ../inc/composer/bk_pd_cfg.php:1109
+#: ../inc/composer/bk_pd_cfg.php:1256 ../inc/composer/bk_pd_cfg.php:1409
+#: ../inc/composer/bk_pd_cfg.php:1551 ../inc/composer/bk_pd_cfg.php:1686
+#: ../inc/composer/bk_pd_cfg.php:1797 ../inc/composer/bk_pd_cfg.php:1901
+#: ../inc/composer/bk_pd_cfg.php:2005 ../inc/composer/bk_pd_cfg.php:2109
+#: ../inc/composer/bk_pd_cfg.php:2272 ../inc/composer/bk_pd_cfg.php:2409
+#: ../inc/composer/bk_pd_cfg.php:2545 ../inc/composer/bk_pd_cfg.php:2688
+#: ../inc/composer/bk_pd_cfg.php:2871 ../inc/composer/bk_pd_cfg.php:3050
+#: ../inc/composer/bk_pd_cfg.php:3229 ../inc/composer/bk_pd_cfg.php:3407
+#: ../inc/composer/bk_pd_cfg.php:3585 ../inc/composer/bk_pd_cfg.php:3763
+#: ../inc/composer/bk_pd_cfg.php:3993 ../inc/composer/bk_pd_cfg.php:4139
+#: ../inc/composer/bk_pd_cfg.php:4284 ../inc/composer/bk_pd_cfg.php:4428
+#: ../inc/composer/bk_pd_cfg.php:4607 ../inc/composer/bk_pd_cfg.php:4785
+#: ../inc/composer/bk_pd_cfg.php:4963 ../inc/composer/bk_pd_cfg.php:5141
+#: ../inc/composer/bk_pd_cfg.php:5319 ../inc/composer/bk_pd_cfg.php:5497
+#: ../inc/composer/bk_pd_cfg.php:5675 ../library/theme-option.php:2222
+#: ../library/theme-option.php:2229
+msgid "Latest Posts"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:90 ../inc/composer/bk_pd_cfg.php:235
+#: ../inc/composer/bk_pd_cfg.php:379 ../inc/composer/bk_pd_cfg.php:521
+#: ../inc/composer/bk_pd_cfg.php:656 ../inc/composer/bk_pd_cfg.php:814
+#: ../inc/composer/bk_pd_cfg.php:962 ../inc/composer/bk_pd_cfg.php:1110
+#: ../inc/composer/bk_pd_cfg.php:1257 ../inc/composer/bk_pd_cfg.php:1410
+#: ../inc/composer/bk_pd_cfg.php:1552 ../inc/composer/bk_pd_cfg.php:1687
+#: ../inc/composer/bk_pd_cfg.php:1798 ../inc/composer/bk_pd_cfg.php:1902
+#: ../inc/composer/bk_pd_cfg.php:2006 ../inc/composer/bk_pd_cfg.php:2110
+#: ../inc/composer/bk_pd_cfg.php:2273 ../inc/composer/bk_pd_cfg.php:2410
+#: ../inc/composer/bk_pd_cfg.php:2546 ../inc/composer/bk_pd_cfg.php:2689
+#: ../inc/composer/bk_pd_cfg.php:2872 ../inc/composer/bk_pd_cfg.php:3051
+#: ../inc/composer/bk_pd_cfg.php:3230 ../inc/composer/bk_pd_cfg.php:3408
+#: ../inc/composer/bk_pd_cfg.php:3586 ../inc/composer/bk_pd_cfg.php:3764
+#: ../inc/composer/bk_pd_cfg.php:3994 ../inc/composer/bk_pd_cfg.php:4140
+#: ../inc/composer/bk_pd_cfg.php:4285 ../inc/composer/bk_pd_cfg.php:4429
+#: ../inc/composer/bk_pd_cfg.php:4608 ../inc/composer/bk_pd_cfg.php:4786
+#: ../inc/composer/bk_pd_cfg.php:4964 ../inc/composer/bk_pd_cfg.php:5142
+#: ../inc/composer/bk_pd_cfg.php:5320 ../inc/composer/bk_pd_cfg.php:5498
+#: ../inc/composer/bk_pd_cfg.php:5676 ../library/theme-option.php:2230
+msgid "Popular Post by Comments"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:91 ../inc/composer/bk_pd_cfg.php:236
+#: ../inc/composer/bk_pd_cfg.php:380 ../inc/composer/bk_pd_cfg.php:522
+#: ../inc/composer/bk_pd_cfg.php:657 ../inc/composer/bk_pd_cfg.php:815
+#: ../inc/composer/bk_pd_cfg.php:963 ../inc/composer/bk_pd_cfg.php:1111
+#: ../inc/composer/bk_pd_cfg.php:1258 ../inc/composer/bk_pd_cfg.php:1411
+#: ../inc/composer/bk_pd_cfg.php:1553 ../inc/composer/bk_pd_cfg.php:1688
+#: ../inc/composer/bk_pd_cfg.php:1799 ../inc/composer/bk_pd_cfg.php:1903
+#: ../inc/composer/bk_pd_cfg.php:2007 ../inc/composer/bk_pd_cfg.php:2111
+#: ../inc/composer/bk_pd_cfg.php:2274 ../inc/composer/bk_pd_cfg.php:2411
+#: ../inc/composer/bk_pd_cfg.php:2547 ../inc/composer/bk_pd_cfg.php:2690
+#: ../inc/composer/bk_pd_cfg.php:2873 ../inc/composer/bk_pd_cfg.php:3052
+#: ../inc/composer/bk_pd_cfg.php:3231 ../inc/composer/bk_pd_cfg.php:3409
+#: ../inc/composer/bk_pd_cfg.php:3587 ../inc/composer/bk_pd_cfg.php:3765
+#: ../inc/composer/bk_pd_cfg.php:3995 ../inc/composer/bk_pd_cfg.php:4141
+#: ../inc/composer/bk_pd_cfg.php:4286 ../inc/composer/bk_pd_cfg.php:4430
+#: ../inc/composer/bk_pd_cfg.php:4609 ../inc/composer/bk_pd_cfg.php:4787
+#: ../inc/composer/bk_pd_cfg.php:4965 ../inc/composer/bk_pd_cfg.php:5143
+#: ../inc/composer/bk_pd_cfg.php:5321 ../inc/composer/bk_pd_cfg.php:5499
+#: ../inc/composer/bk_pd_cfg.php:5677 ../library/theme-option.php:2231
+msgid "Popular Post by Views"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:92 ../inc/composer/bk_pd_cfg.php:237
+#: ../inc/composer/bk_pd_cfg.php:381 ../inc/composer/bk_pd_cfg.php:523
+#: ../inc/composer/bk_pd_cfg.php:658 ../inc/composer/bk_pd_cfg.php:816
+#: ../inc/composer/bk_pd_cfg.php:964 ../inc/composer/bk_pd_cfg.php:1112
+#: ../inc/composer/bk_pd_cfg.php:1259 ../inc/composer/bk_pd_cfg.php:1412
+#: ../inc/composer/bk_pd_cfg.php:1554 ../inc/composer/bk_pd_cfg.php:1689
+#: ../inc/composer/bk_pd_cfg.php:1800 ../inc/composer/bk_pd_cfg.php:1904
+#: ../inc/composer/bk_pd_cfg.php:2008 ../inc/composer/bk_pd_cfg.php:2112
+#: ../inc/composer/bk_pd_cfg.php:2275 ../inc/composer/bk_pd_cfg.php:2412
+#: ../inc/composer/bk_pd_cfg.php:2548 ../inc/composer/bk_pd_cfg.php:2691
+#: ../inc/composer/bk_pd_cfg.php:2874 ../inc/composer/bk_pd_cfg.php:3053
+#: ../inc/composer/bk_pd_cfg.php:3232 ../inc/composer/bk_pd_cfg.php:3410
+#: ../inc/composer/bk_pd_cfg.php:3588 ../inc/composer/bk_pd_cfg.php:3766
+#: ../inc/composer/bk_pd_cfg.php:3996 ../inc/composer/bk_pd_cfg.php:4142
+#: ../inc/composer/bk_pd_cfg.php:4287 ../inc/composer/bk_pd_cfg.php:4431
+#: ../inc/composer/bk_pd_cfg.php:4610 ../inc/composer/bk_pd_cfg.php:4788
+#: ../inc/composer/bk_pd_cfg.php:4966 ../inc/composer/bk_pd_cfg.php:5144
+#: ../inc/composer/bk_pd_cfg.php:5322 ../inc/composer/bk_pd_cfg.php:5500
+#: ../inc/composer/bk_pd_cfg.php:5678 ../library/theme-option.php:2232
+msgid "Best Review"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:93 ../inc/composer/bk_pd_cfg.php:238
+#: ../inc/composer/bk_pd_cfg.php:382 ../inc/composer/bk_pd_cfg.php:524
+#: ../inc/composer/bk_pd_cfg.php:659 ../inc/composer/bk_pd_cfg.php:817
+#: ../inc/composer/bk_pd_cfg.php:965 ../inc/composer/bk_pd_cfg.php:1113
+#: ../inc/composer/bk_pd_cfg.php:1260 ../inc/composer/bk_pd_cfg.php:1413
+#: ../inc/composer/bk_pd_cfg.php:1555 ../inc/composer/bk_pd_cfg.php:1690
+#: ../inc/composer/bk_pd_cfg.php:1801 ../inc/composer/bk_pd_cfg.php:1905
+#: ../inc/composer/bk_pd_cfg.php:2009 ../inc/composer/bk_pd_cfg.php:2113
+#: ../inc/composer/bk_pd_cfg.php:2276 ../inc/composer/bk_pd_cfg.php:2413
+#: ../inc/composer/bk_pd_cfg.php:2549 ../inc/composer/bk_pd_cfg.php:2692
+#: ../inc/composer/bk_pd_cfg.php:2875 ../inc/composer/bk_pd_cfg.php:3054
+#: ../inc/composer/bk_pd_cfg.php:3233 ../inc/composer/bk_pd_cfg.php:3411
+#: ../inc/composer/bk_pd_cfg.php:3589 ../inc/composer/bk_pd_cfg.php:3767
+#: ../inc/composer/bk_pd_cfg.php:3997 ../inc/composer/bk_pd_cfg.php:4143
+#: ../inc/composer/bk_pd_cfg.php:4288 ../inc/composer/bk_pd_cfg.php:4432
+#: ../inc/composer/bk_pd_cfg.php:4611 ../inc/composer/bk_pd_cfg.php:4789
+#: ../inc/composer/bk_pd_cfg.php:4967 ../inc/composer/bk_pd_cfg.php:5145
+#: ../inc/composer/bk_pd_cfg.php:5323 ../inc/composer/bk_pd_cfg.php:5501
+#: ../inc/composer/bk_pd_cfg.php:5679 ../library/theme-option.php:2233
+msgid "Modified"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:94 ../inc/composer/bk_pd_cfg.php:239
+#: ../inc/composer/bk_pd_cfg.php:383 ../inc/composer/bk_pd_cfg.php:525
+#: ../inc/composer/bk_pd_cfg.php:660 ../inc/composer/bk_pd_cfg.php:818
+#: ../inc/composer/bk_pd_cfg.php:966 ../inc/composer/bk_pd_cfg.php:1114
+#: ../inc/composer/bk_pd_cfg.php:1261 ../inc/composer/bk_pd_cfg.php:1414
+#: ../inc/composer/bk_pd_cfg.php:1556 ../inc/composer/bk_pd_cfg.php:1691
+#: ../inc/composer/bk_pd_cfg.php:1802 ../inc/composer/bk_pd_cfg.php:1906
+#: ../inc/composer/bk_pd_cfg.php:2010 ../inc/composer/bk_pd_cfg.php:2114
+#: ../inc/composer/bk_pd_cfg.php:2277 ../inc/composer/bk_pd_cfg.php:2414
+#: ../inc/composer/bk_pd_cfg.php:2550 ../inc/composer/bk_pd_cfg.php:2693
+#: ../inc/composer/bk_pd_cfg.php:2876 ../inc/composer/bk_pd_cfg.php:3055
+#: ../inc/composer/bk_pd_cfg.php:3234 ../inc/composer/bk_pd_cfg.php:3412
+#: ../inc/composer/bk_pd_cfg.php:3590 ../inc/composer/bk_pd_cfg.php:3768
+#: ../inc/composer/bk_pd_cfg.php:3998 ../inc/composer/bk_pd_cfg.php:4144
+#: ../inc/composer/bk_pd_cfg.php:4289 ../inc/composer/bk_pd_cfg.php:4433
+#: ../inc/composer/bk_pd_cfg.php:4612 ../inc/composer/bk_pd_cfg.php:4790
+#: ../inc/composer/bk_pd_cfg.php:4968 ../inc/composer/bk_pd_cfg.php:5146
+#: ../inc/composer/bk_pd_cfg.php:5324 ../inc/composer/bk_pd_cfg.php:5502
+#: ../inc/composer/bk_pd_cfg.php:5680
+msgid "Speed Reads"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:95 ../inc/composer/bk_pd_cfg.php:240
+#: ../inc/composer/bk_pd_cfg.php:384 ../inc/composer/bk_pd_cfg.php:526
+#: ../inc/composer/bk_pd_cfg.php:661 ../inc/composer/bk_pd_cfg.php:819
+#: ../inc/composer/bk_pd_cfg.php:967 ../inc/composer/bk_pd_cfg.php:1115
+#: ../inc/composer/bk_pd_cfg.php:1262 ../inc/composer/bk_pd_cfg.php:1415
+#: ../inc/composer/bk_pd_cfg.php:1557 ../inc/composer/bk_pd_cfg.php:1692
+#: ../inc/composer/bk_pd_cfg.php:1803 ../inc/composer/bk_pd_cfg.php:1907
+#: ../inc/composer/bk_pd_cfg.php:2011 ../inc/composer/bk_pd_cfg.php:2115
+#: ../inc/composer/bk_pd_cfg.php:2278 ../inc/composer/bk_pd_cfg.php:2415
+#: ../inc/composer/bk_pd_cfg.php:2551 ../inc/composer/bk_pd_cfg.php:2694
+#: ../inc/composer/bk_pd_cfg.php:2877 ../inc/composer/bk_pd_cfg.php:3056
+#: ../inc/composer/bk_pd_cfg.php:3235 ../inc/composer/bk_pd_cfg.php:3413
+#: ../inc/composer/bk_pd_cfg.php:3591 ../inc/composer/bk_pd_cfg.php:3769
+#: ../inc/composer/bk_pd_cfg.php:3999 ../inc/composer/bk_pd_cfg.php:4145
+#: ../inc/composer/bk_pd_cfg.php:4290 ../inc/composer/bk_pd_cfg.php:4434
+#: ../inc/composer/bk_pd_cfg.php:4613 ../inc/composer/bk_pd_cfg.php:4791
+#: ../inc/composer/bk_pd_cfg.php:4969 ../inc/composer/bk_pd_cfg.php:5147
+#: ../inc/composer/bk_pd_cfg.php:5325 ../inc/composer/bk_pd_cfg.php:5503
+#: ../inc/composer/bk_pd_cfg.php:5681 ../library/theme-option.php:2234
+msgid "Alphabetical A->Z"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:96 ../inc/composer/bk_pd_cfg.php:241
+#: ../inc/composer/bk_pd_cfg.php:385 ../inc/composer/bk_pd_cfg.php:527
+#: ../inc/composer/bk_pd_cfg.php:662 ../inc/composer/bk_pd_cfg.php:820
+#: ../inc/composer/bk_pd_cfg.php:968 ../inc/composer/bk_pd_cfg.php:1116
+#: ../inc/composer/bk_pd_cfg.php:1263 ../inc/composer/bk_pd_cfg.php:1416
+#: ../inc/composer/bk_pd_cfg.php:1558 ../inc/composer/bk_pd_cfg.php:1693
+#: ../inc/composer/bk_pd_cfg.php:1804 ../inc/composer/bk_pd_cfg.php:1908
+#: ../inc/composer/bk_pd_cfg.php:2012 ../inc/composer/bk_pd_cfg.php:2116
+#: ../inc/composer/bk_pd_cfg.php:2279 ../inc/composer/bk_pd_cfg.php:2416
+#: ../inc/composer/bk_pd_cfg.php:2552 ../inc/composer/bk_pd_cfg.php:2695
+#: ../inc/composer/bk_pd_cfg.php:2878 ../inc/composer/bk_pd_cfg.php:3057
+#: ../inc/composer/bk_pd_cfg.php:3236 ../inc/composer/bk_pd_cfg.php:3414
+#: ../inc/composer/bk_pd_cfg.php:3592 ../inc/composer/bk_pd_cfg.php:3770
+#: ../inc/composer/bk_pd_cfg.php:4000 ../inc/composer/bk_pd_cfg.php:4146
+#: ../inc/composer/bk_pd_cfg.php:4291 ../inc/composer/bk_pd_cfg.php:4435
+#: ../inc/composer/bk_pd_cfg.php:4614 ../inc/composer/bk_pd_cfg.php:4792
+#: ../inc/composer/bk_pd_cfg.php:4970 ../inc/composer/bk_pd_cfg.php:5148
+#: ../inc/composer/bk_pd_cfg.php:5326 ../inc/composer/bk_pd_cfg.php:5504
+#: ../inc/composer/bk_pd_cfg.php:5682 ../library/theme-option.php:2235
+msgid "Alphabetical Z->A"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:100 ../inc/composer/bk_pd_cfg.php:245
+#: ../inc/composer/bk_pd_cfg.php:389 ../inc/composer/bk_pd_cfg.php:531
+#: ../inc/composer/bk_pd_cfg.php:666 ../inc/composer/bk_pd_cfg.php:824
+#: ../inc/composer/bk_pd_cfg.php:972 ../inc/composer/bk_pd_cfg.php:1120
+#: ../inc/composer/bk_pd_cfg.php:1267 ../inc/composer/bk_pd_cfg.php:1420
+#: ../inc/composer/bk_pd_cfg.php:1562 ../inc/composer/bk_pd_cfg.php:1697
+#: ../inc/composer/bk_pd_cfg.php:1808 ../inc/composer/bk_pd_cfg.php:1912
+#: ../inc/composer/bk_pd_cfg.php:2016 ../inc/composer/bk_pd_cfg.php:2120
+#: ../inc/composer/bk_pd_cfg.php:2283 ../inc/composer/bk_pd_cfg.php:2420
+#: ../inc/composer/bk_pd_cfg.php:2556 ../inc/composer/bk_pd_cfg.php:2699
+#: ../inc/composer/bk_pd_cfg.php:2882 ../inc/composer/bk_pd_cfg.php:3061
+#: ../inc/composer/bk_pd_cfg.php:3240 ../inc/composer/bk_pd_cfg.php:3418
+#: ../inc/composer/bk_pd_cfg.php:3596 ../inc/composer/bk_pd_cfg.php:3774
+#: ../inc/composer/bk_pd_cfg.php:4004 ../inc/composer/bk_pd_cfg.php:4150
+#: ../inc/composer/bk_pd_cfg.php:4295 ../inc/composer/bk_pd_cfg.php:4439
+#: ../inc/composer/bk_pd_cfg.php:4618 ../inc/composer/bk_pd_cfg.php:4796
+#: ../inc/composer/bk_pd_cfg.php:4974 ../inc/composer/bk_pd_cfg.php:5152
+#: ../inc/composer/bk_pd_cfg.php:5330 ../inc/composer/bk_pd_cfg.php:5508
+#: ../inc/composer/bk_pd_cfg.php:5686 ../library/theme-option.php:139
+msgid "Tags"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:101 ../inc/composer/bk_pd_cfg.php:246
+#: ../inc/composer/bk_pd_cfg.php:390 ../inc/composer/bk_pd_cfg.php:532
+#: ../inc/composer/bk_pd_cfg.php:667 ../inc/composer/bk_pd_cfg.php:825
+#: ../inc/composer/bk_pd_cfg.php:973 ../inc/composer/bk_pd_cfg.php:1121
+#: ../inc/composer/bk_pd_cfg.php:1268 ../inc/composer/bk_pd_cfg.php:1421
+#: ../inc/composer/bk_pd_cfg.php:1563 ../inc/composer/bk_pd_cfg.php:1698
+#: ../inc/composer/bk_pd_cfg.php:1809 ../inc/composer/bk_pd_cfg.php:1913
+#: ../inc/composer/bk_pd_cfg.php:2017 ../inc/composer/bk_pd_cfg.php:2121
+#: ../inc/composer/bk_pd_cfg.php:2284 ../inc/composer/bk_pd_cfg.php:2421
+#: ../inc/composer/bk_pd_cfg.php:2557 ../inc/composer/bk_pd_cfg.php:2700
+#: ../inc/composer/bk_pd_cfg.php:2883 ../inc/composer/bk_pd_cfg.php:3062
+#: ../inc/composer/bk_pd_cfg.php:3241 ../inc/composer/bk_pd_cfg.php:3419
+#: ../inc/composer/bk_pd_cfg.php:3597 ../inc/composer/bk_pd_cfg.php:3775
+#: ../inc/composer/bk_pd_cfg.php:4005 ../inc/composer/bk_pd_cfg.php:4151
+#: ../inc/composer/bk_pd_cfg.php:4296 ../inc/composer/bk_pd_cfg.php:4440
+#: ../inc/composer/bk_pd_cfg.php:4619 ../inc/composer/bk_pd_cfg.php:4797
+#: ../inc/composer/bk_pd_cfg.php:4975 ../inc/composer/bk_pd_cfg.php:5153
+#: ../inc/composer/bk_pd_cfg.php:5331 ../inc/composer/bk_pd_cfg.php:5509
+#: ../inc/composer/bk_pd_cfg.php:5687
+msgid "[Optional] Separate tags by the comma. e.g. tag1,tag2"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:107 ../inc/composer/bk_pd_cfg.php:252
+#: ../inc/composer/bk_pd_cfg.php:396 ../inc/composer/bk_pd_cfg.php:538
+#: ../inc/composer/bk_pd_cfg.php:673 ../inc/composer/bk_pd_cfg.php:831
+#: ../inc/composer/bk_pd_cfg.php:979 ../inc/composer/bk_pd_cfg.php:1127
+#: ../inc/composer/bk_pd_cfg.php:1274 ../inc/composer/bk_pd_cfg.php:1427
+#: ../inc/composer/bk_pd_cfg.php:1569 ../inc/composer/bk_pd_cfg.php:1704
+#: ../inc/composer/bk_pd_cfg.php:1815 ../inc/composer/bk_pd_cfg.php:1919
+#: ../inc/composer/bk_pd_cfg.php:2023 ../inc/composer/bk_pd_cfg.php:2127
+#: ../inc/composer/bk_pd_cfg.php:2290 ../inc/composer/bk_pd_cfg.php:2427
+#: ../inc/composer/bk_pd_cfg.php:2563 ../inc/composer/bk_pd_cfg.php:2706
+#: ../inc/composer/bk_pd_cfg.php:2889 ../inc/composer/bk_pd_cfg.php:3068
+#: ../inc/composer/bk_pd_cfg.php:3247 ../inc/composer/bk_pd_cfg.php:3425
+#: ../inc/composer/bk_pd_cfg.php:3603 ../inc/composer/bk_pd_cfg.php:3781
+#: ../inc/composer/bk_pd_cfg.php:4011 ../inc/composer/bk_pd_cfg.php:4157
+#: ../inc/composer/bk_pd_cfg.php:4302 ../inc/composer/bk_pd_cfg.php:4446
+#: ../inc/composer/bk_pd_cfg.php:4625 ../inc/composer/bk_pd_cfg.php:4803
+#: ../inc/composer/bk_pd_cfg.php:4981 ../inc/composer/bk_pd_cfg.php:5159
+#: ../inc/composer/bk_pd_cfg.php:5337 ../inc/composer/bk_pd_cfg.php:5515
+#: ../inc/composer/bk_pd_cfg.php:5693 ../library/theme-option.php:1660
+msgid "Category"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:108 ../inc/composer/bk_pd_cfg.php:253
+#: ../inc/composer/bk_pd_cfg.php:397 ../inc/composer/bk_pd_cfg.php:539
+#: ../inc/composer/bk_pd_cfg.php:674 ../inc/composer/bk_pd_cfg.php:832
+#: ../inc/composer/bk_pd_cfg.php:980 ../inc/composer/bk_pd_cfg.php:1128
+#: ../inc/composer/bk_pd_cfg.php:1275 ../inc/composer/bk_pd_cfg.php:1428
+#: ../inc/composer/bk_pd_cfg.php:1570 ../inc/composer/bk_pd_cfg.php:1705
+#: ../inc/composer/bk_pd_cfg.php:1816 ../inc/composer/bk_pd_cfg.php:1920
+#: ../inc/composer/bk_pd_cfg.php:2024 ../inc/composer/bk_pd_cfg.php:2128
+#: ../inc/composer/bk_pd_cfg.php:2291 ../inc/composer/bk_pd_cfg.php:2428
+#: ../inc/composer/bk_pd_cfg.php:2564 ../inc/composer/bk_pd_cfg.php:2707
+#: ../inc/composer/bk_pd_cfg.php:2890 ../inc/composer/bk_pd_cfg.php:3069
+#: ../inc/composer/bk_pd_cfg.php:3248 ../inc/composer/bk_pd_cfg.php:3426
+#: ../inc/composer/bk_pd_cfg.php:3604 ../inc/composer/bk_pd_cfg.php:3782
+#: ../inc/composer/bk_pd_cfg.php:4012 ../inc/composer/bk_pd_cfg.php:4158
+#: ../inc/composer/bk_pd_cfg.php:4303 ../inc/composer/bk_pd_cfg.php:4447
+#: ../inc/composer/bk_pd_cfg.php:4626 ../inc/composer/bk_pd_cfg.php:4804
+#: ../inc/composer/bk_pd_cfg.php:4982 ../inc/composer/bk_pd_cfg.php:5160
+#: ../inc/composer/bk_pd_cfg.php:5338 ../inc/composer/bk_pd_cfg.php:5516
+#: ../inc/composer/bk_pd_cfg.php:5694
+msgid "Choose a post category to be shown up"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:115 ../inc/composer/bk_pd_cfg.php:260
+#: ../inc/composer/bk_pd_cfg.php:404 ../inc/composer/bk_pd_cfg.php:546
+#: ../inc/composer/bk_pd_cfg.php:681 ../inc/composer/bk_pd_cfg.php:839
+#: ../inc/composer/bk_pd_cfg.php:987 ../inc/composer/bk_pd_cfg.php:1135
+#: ../inc/composer/bk_pd_cfg.php:1282 ../inc/composer/bk_pd_cfg.php:1435
+#: ../inc/composer/bk_pd_cfg.php:1577 ../inc/composer/bk_pd_cfg.php:1712
+#: ../inc/composer/bk_pd_cfg.php:2298 ../inc/composer/bk_pd_cfg.php:2435
+#: ../inc/composer/bk_pd_cfg.php:2571 ../inc/composer/bk_pd_cfg.php:2714
+#: ../inc/composer/bk_pd_cfg.php:2897 ../inc/composer/bk_pd_cfg.php:3076
+#: ../inc/composer/bk_pd_cfg.php:3255 ../inc/composer/bk_pd_cfg.php:3433
+#: ../inc/composer/bk_pd_cfg.php:3611 ../inc/composer/bk_pd_cfg.php:3789
+#: ../inc/composer/bk_pd_cfg.php:4019 ../inc/composer/bk_pd_cfg.php:4165
+#: ../inc/composer/bk_pd_cfg.php:4310 ../inc/composer/bk_pd_cfg.php:4454
+#: ../inc/composer/bk_pd_cfg.php:4633 ../inc/composer/bk_pd_cfg.php:4811
+#: ../inc/composer/bk_pd_cfg.php:4989 ../inc/composer/bk_pd_cfg.php:5167
+#: ../inc/composer/bk_pd_cfg.php:5345 ../inc/composer/bk_pd_cfg.php:5523
+#: ../inc/composer/bk_pd_cfg.php:5701
+msgid "Manually Pick Post (By Post IDs)"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:116 ../inc/composer/bk_pd_cfg.php:123
+#: ../inc/composer/bk_pd_cfg.php:261 ../inc/composer/bk_pd_cfg.php:268
+#: ../inc/composer/bk_pd_cfg.php:405 ../inc/composer/bk_pd_cfg.php:412
+#: ../inc/composer/bk_pd_cfg.php:547 ../inc/composer/bk_pd_cfg.php:554
+#: ../inc/composer/bk_pd_cfg.php:682 ../inc/composer/bk_pd_cfg.php:689
+#: ../inc/composer/bk_pd_cfg.php:840 ../inc/composer/bk_pd_cfg.php:847
+#: ../inc/composer/bk_pd_cfg.php:988 ../inc/composer/bk_pd_cfg.php:995
+#: ../inc/composer/bk_pd_cfg.php:1136 ../inc/composer/bk_pd_cfg.php:1143
+#: ../inc/composer/bk_pd_cfg.php:1290 ../inc/composer/bk_pd_cfg.php:1436
+#: ../inc/composer/bk_pd_cfg.php:1443 ../inc/composer/bk_pd_cfg.php:1578
+#: ../inc/composer/bk_pd_cfg.php:1585 ../inc/composer/bk_pd_cfg.php:1713
+#: ../inc/composer/bk_pd_cfg.php:1720 ../inc/composer/bk_pd_cfg.php:1823
+#: ../inc/composer/bk_pd_cfg.php:1927 ../inc/composer/bk_pd_cfg.php:2031
+#: ../inc/composer/bk_pd_cfg.php:2135 ../inc/composer/bk_pd_cfg.php:2306
+#: ../inc/composer/bk_pd_cfg.php:2443 ../inc/composer/bk_pd_cfg.php:2579
+#: ../inc/composer/bk_pd_cfg.php:2722 ../inc/composer/bk_pd_cfg.php:2905
+#: ../inc/composer/bk_pd_cfg.php:3084 ../inc/composer/bk_pd_cfg.php:3263
+#: ../inc/composer/bk_pd_cfg.php:3441 ../inc/composer/bk_pd_cfg.php:3619
+#: ../inc/composer/bk_pd_cfg.php:3797 ../inc/composer/bk_pd_cfg.php:4027
+#: ../inc/composer/bk_pd_cfg.php:4173 ../inc/composer/bk_pd_cfg.php:4318
+#: ../inc/composer/bk_pd_cfg.php:4462 ../inc/composer/bk_pd_cfg.php:4641
+#: ../inc/composer/bk_pd_cfg.php:4819 ../inc/composer/bk_pd_cfg.php:4997
+#: ../inc/composer/bk_pd_cfg.php:5175 ../inc/composer/bk_pd_cfg.php:5353
+#: ../inc/composer/bk_pd_cfg.php:5531 ../inc/composer/bk_pd_cfg.php:5709
+msgid "Insert the post IDs here, separated by a comma"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:122 ../inc/composer/bk_pd_cfg.php:267
+#: ../inc/composer/bk_pd_cfg.php:411 ../inc/composer/bk_pd_cfg.php:553
+#: ../inc/composer/bk_pd_cfg.php:688 ../inc/composer/bk_pd_cfg.php:846
+#: ../inc/composer/bk_pd_cfg.php:994 ../inc/composer/bk_pd_cfg.php:1142
+#: ../inc/composer/bk_pd_cfg.php:1289 ../inc/composer/bk_pd_cfg.php:1442
+#: ../inc/composer/bk_pd_cfg.php:1584 ../inc/composer/bk_pd_cfg.php:1719
+#: ../inc/composer/bk_pd_cfg.php:1822 ../inc/composer/bk_pd_cfg.php:1926
+#: ../inc/composer/bk_pd_cfg.php:2030 ../inc/composer/bk_pd_cfg.php:2134
+#: ../inc/composer/bk_pd_cfg.php:2305 ../inc/composer/bk_pd_cfg.php:2442
+#: ../inc/composer/bk_pd_cfg.php:2578 ../inc/composer/bk_pd_cfg.php:2721
+#: ../inc/composer/bk_pd_cfg.php:2904 ../inc/composer/bk_pd_cfg.php:3083
+#: ../inc/composer/bk_pd_cfg.php:3262 ../inc/composer/bk_pd_cfg.php:3440
+#: ../inc/composer/bk_pd_cfg.php:3618 ../inc/composer/bk_pd_cfg.php:3796
+#: ../inc/composer/bk_pd_cfg.php:4026 ../inc/composer/bk_pd_cfg.php:4172
+#: ../inc/composer/bk_pd_cfg.php:4317 ../inc/composer/bk_pd_cfg.php:4461
+#: ../inc/composer/bk_pd_cfg.php:4640 ../inc/composer/bk_pd_cfg.php:4818
+#: ../inc/composer/bk_pd_cfg.php:4996 ../inc/composer/bk_pd_cfg.php:5174
+#: ../inc/composer/bk_pd_cfg.php:5352 ../inc/composer/bk_pd_cfg.php:5530
+#: ../inc/composer/bk_pd_cfg.php:5708
+msgid "Manually Exclude Posts (By Post IDs)"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:130 ../inc/composer/bk_pd_cfg.php:275
+#: ../inc/composer/bk_pd_cfg.php:419 ../inc/composer/bk_pd_cfg.php:561
+#: ../inc/composer/bk_pd_cfg.php:696 ../inc/composer/bk_pd_cfg.php:854
+#: ../inc/composer/bk_pd_cfg.php:1002 ../inc/composer/bk_pd_cfg.php:1150
+#: ../inc/composer/bk_pd_cfg.php:1297 ../inc/composer/bk_pd_cfg.php:1450
+#: ../inc/composer/bk_pd_cfg.php:1592 ../inc/composer/bk_pd_cfg.php:1727
+#: ../inc/composer/bk_pd_cfg.php:2314 ../inc/composer/bk_pd_cfg.php:2451
+#: ../inc/composer/bk_pd_cfg.php:2587 ../inc/composer/bk_pd_cfg.php:2729
+#: ../inc/composer/bk_pd_cfg.php:2912 ../inc/composer/bk_pd_cfg.php:3091
+#: ../inc/composer/bk_pd_cfg.php:3270 ../inc/composer/bk_pd_cfg.php:3448
+#: ../inc/composer/bk_pd_cfg.php:3626 ../inc/composer/bk_pd_cfg.php:3804
+#: ../inc/composer/bk_pd_cfg.php:4034 ../inc/composer/bk_pd_cfg.php:4180
+#: ../inc/composer/bk_pd_cfg.php:4325 ../inc/composer/bk_pd_cfg.php:4469
+#: ../inc/composer/bk_pd_cfg.php:4648 ../inc/composer/bk_pd_cfg.php:4826
+#: ../inc/composer/bk_pd_cfg.php:5004 ../inc/composer/bk_pd_cfg.php:5182
+#: ../inc/composer/bk_pd_cfg.php:5360 ../inc/composer/bk_pd_cfg.php:5538
+#: ../inc/composer/bk_pd_cfg.php:5716
+msgid "Show only Post Type"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:131 ../inc/composer/bk_pd_cfg.php:276
+#: ../inc/composer/bk_pd_cfg.php:420 ../inc/composer/bk_pd_cfg.php:562
+#: ../inc/composer/bk_pd_cfg.php:697 ../inc/composer/bk_pd_cfg.php:855
+#: ../inc/composer/bk_pd_cfg.php:1003
+msgid "All - Show All Post Type, This module does not show the post icons"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:136 ../inc/composer/bk_pd_cfg.php:281
+#: ../inc/composer/bk_pd_cfg.php:425 ../inc/composer/bk_pd_cfg.php:567
+#: ../inc/composer/bk_pd_cfg.php:702 ../inc/composer/bk_pd_cfg.php:860
+#: ../inc/composer/bk_pd_cfg.php:1008 ../inc/composer/bk_pd_cfg.php:1156
+#: ../inc/composer/bk_pd_cfg.php:1303 ../inc/composer/bk_pd_cfg.php:1456
+#: ../inc/composer/bk_pd_cfg.php:1598 ../inc/composer/bk_pd_cfg.php:1733
+#: ../inc/composer/bk_pd_cfg.php:2320 ../inc/composer/bk_pd_cfg.php:2457
+#: ../inc/composer/bk_pd_cfg.php:2593 ../inc/composer/bk_pd_cfg.php:2735
+#: ../inc/composer/bk_pd_cfg.php:2918 ../inc/composer/bk_pd_cfg.php:3097
+#: ../inc/composer/bk_pd_cfg.php:3276 ../inc/composer/bk_pd_cfg.php:3454
+#: ../inc/composer/bk_pd_cfg.php:3632 ../inc/composer/bk_pd_cfg.php:3810
+#: ../inc/composer/bk_pd_cfg.php:4040 ../inc/composer/bk_pd_cfg.php:4186
+#: ../inc/composer/bk_pd_cfg.php:4331 ../inc/composer/bk_pd_cfg.php:4475
+#: ../inc/composer/bk_pd_cfg.php:4654 ../inc/composer/bk_pd_cfg.php:4832
+#: ../inc/composer/bk_pd_cfg.php:5010 ../inc/composer/bk_pd_cfg.php:5188
+#: ../inc/composer/bk_pd_cfg.php:5366 ../inc/composer/bk_pd_cfg.php:5544
+#: ../inc/composer/bk_pd_cfg.php:5722 ../library/mega_menu.php:75
+msgid "All"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:137 ../inc/composer/bk_pd_cfg.php:282
+#: ../inc/composer/bk_pd_cfg.php:426 ../inc/composer/bk_pd_cfg.php:568
+#: ../inc/composer/bk_pd_cfg.php:703 ../inc/composer/bk_pd_cfg.php:861
+#: ../inc/composer/bk_pd_cfg.php:1009 ../inc/composer/bk_pd_cfg.php:1157
+#: ../inc/composer/bk_pd_cfg.php:1304 ../inc/composer/bk_pd_cfg.php:1457
+#: ../inc/composer/bk_pd_cfg.php:1599 ../inc/composer/bk_pd_cfg.php:1734
+#: ../inc/composer/bk_pd_cfg.php:2321 ../inc/composer/bk_pd_cfg.php:2458
+#: ../inc/composer/bk_pd_cfg.php:2594 ../inc/composer/bk_pd_cfg.php:2736
+#: ../inc/composer/bk_pd_cfg.php:2919 ../inc/composer/bk_pd_cfg.php:3098
+#: ../inc/composer/bk_pd_cfg.php:3277 ../inc/composer/bk_pd_cfg.php:3455
+#: ../inc/composer/bk_pd_cfg.php:3633 ../inc/composer/bk_pd_cfg.php:3811
+#: ../inc/composer/bk_pd_cfg.php:4041 ../inc/composer/bk_pd_cfg.php:4187
+#: ../inc/composer/bk_pd_cfg.php:4332 ../inc/composer/bk_pd_cfg.php:4476
+#: ../inc/composer/bk_pd_cfg.php:4655 ../inc/composer/bk_pd_cfg.php:4833
+#: ../inc/composer/bk_pd_cfg.php:5011 ../inc/composer/bk_pd_cfg.php:5189
+#: ../inc/composer/bk_pd_cfg.php:5367 ../inc/composer/bk_pd_cfg.php:5545
+#: ../inc/composer/bk_pd_cfg.php:5723
+msgid "Video"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:138 ../inc/composer/bk_pd_cfg.php:283
+#: ../inc/composer/bk_pd_cfg.php:427 ../inc/composer/bk_pd_cfg.php:569
+#: ../inc/composer/bk_pd_cfg.php:704 ../inc/composer/bk_pd_cfg.php:862
+#: ../inc/composer/bk_pd_cfg.php:1010 ../inc/composer/bk_pd_cfg.php:1158
+#: ../inc/composer/bk_pd_cfg.php:1305 ../inc/composer/bk_pd_cfg.php:1458
+#: ../inc/composer/bk_pd_cfg.php:1600 ../inc/composer/bk_pd_cfg.php:1735
+#: ../inc/composer/bk_pd_cfg.php:2322 ../inc/composer/bk_pd_cfg.php:2459
+#: ../inc/composer/bk_pd_cfg.php:2595 ../inc/composer/bk_pd_cfg.php:2737
+#: ../inc/composer/bk_pd_cfg.php:2920 ../inc/composer/bk_pd_cfg.php:3099
+#: ../inc/composer/bk_pd_cfg.php:3278 ../inc/composer/bk_pd_cfg.php:3456
+#: ../inc/composer/bk_pd_cfg.php:3634 ../inc/composer/bk_pd_cfg.php:3812
+#: ../inc/composer/bk_pd_cfg.php:4042 ../inc/composer/bk_pd_cfg.php:4188
+#: ../inc/composer/bk_pd_cfg.php:4333 ../inc/composer/bk_pd_cfg.php:4477
+#: ../inc/composer/bk_pd_cfg.php:4656 ../inc/composer/bk_pd_cfg.php:4834
+#: ../inc/composer/bk_pd_cfg.php:5012 ../inc/composer/bk_pd_cfg.php:5190
+#: ../inc/composer/bk_pd_cfg.php:5368 ../inc/composer/bk_pd_cfg.php:5546
+#: ../inc/composer/bk_pd_cfg.php:5724
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:139 ../inc/composer/bk_pd_cfg.php:284
+#: ../inc/composer/bk_pd_cfg.php:428 ../inc/composer/bk_pd_cfg.php:570
+#: ../inc/composer/bk_pd_cfg.php:705 ../inc/composer/bk_pd_cfg.php:863
+#: ../inc/composer/bk_pd_cfg.php:1011 ../inc/composer/bk_pd_cfg.php:1159
+#: ../inc/composer/bk_pd_cfg.php:1306 ../inc/composer/bk_pd_cfg.php:1459
+#: ../inc/composer/bk_pd_cfg.php:1601 ../inc/composer/bk_pd_cfg.php:1736
+#: ../inc/composer/bk_pd_cfg.php:2323 ../inc/composer/bk_pd_cfg.php:2460
+#: ../inc/composer/bk_pd_cfg.php:2596 ../inc/composer/bk_pd_cfg.php:2738
+#: ../inc/composer/bk_pd_cfg.php:2921 ../inc/composer/bk_pd_cfg.php:3100
+#: ../inc/composer/bk_pd_cfg.php:3279 ../inc/composer/bk_pd_cfg.php:3457
+#: ../inc/composer/bk_pd_cfg.php:3635 ../inc/composer/bk_pd_cfg.php:3813
+#: ../inc/composer/bk_pd_cfg.php:4043 ../inc/composer/bk_pd_cfg.php:4189
+#: ../inc/composer/bk_pd_cfg.php:4334 ../inc/composer/bk_pd_cfg.php:4478
+#: ../inc/composer/bk_pd_cfg.php:4657 ../inc/composer/bk_pd_cfg.php:4835
+#: ../inc/composer/bk_pd_cfg.php:5013 ../inc/composer/bk_pd_cfg.php:5191
+#: ../inc/composer/bk_pd_cfg.php:5369 ../inc/composer/bk_pd_cfg.php:5547
+#: ../inc/composer/bk_pd_cfg.php:5725
+msgid "Review"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:143 ../inc/composer/bk_pd_cfg.php:288
+#: ../inc/composer/bk_pd_cfg.php:432 ../inc/composer/bk_pd_cfg.php:574
+#: ../inc/composer/bk_pd_cfg.php:709 ../inc/composer/bk_pd_cfg.php:867
+#: ../inc/composer/bk_pd_cfg.php:1015 ../inc/composer/bk_pd_cfg.php:1163
+#: ../inc/composer/bk_pd_cfg.php:1174 ../inc/composer/bk_pd_cfg.php:1310
+#: ../inc/composer/bk_pd_cfg.php:1321 ../inc/composer/bk_pd_cfg.php:1463
+#: ../inc/composer/bk_pd_cfg.php:1605 ../inc/composer/bk_pd_cfg.php:1740
+#: ../inc/composer/bk_pd_cfg.php:2190 ../inc/composer/bk_pd_cfg.php:2327
+#: ../inc/composer/bk_pd_cfg.php:2464 ../inc/composer/bk_pd_cfg.php:2600
+#: ../inc/composer/bk_pd_cfg.php:2742 ../inc/composer/bk_pd_cfg.php:2925
+#: ../inc/composer/bk_pd_cfg.php:3104 ../inc/composer/bk_pd_cfg.php:3283
+#: ../inc/composer/bk_pd_cfg.php:3461 ../inc/composer/bk_pd_cfg.php:3639
+#: ../inc/composer/bk_pd_cfg.php:3817 ../inc/composer/bk_pd_cfg.php:4047
+#: ../inc/composer/bk_pd_cfg.php:4193 ../inc/composer/bk_pd_cfg.php:4338
+#: ../inc/composer/bk_pd_cfg.php:4482 ../inc/composer/bk_pd_cfg.php:4661
+#: ../inc/composer/bk_pd_cfg.php:4839 ../inc/composer/bk_pd_cfg.php:5017
+#: ../inc/composer/bk_pd_cfg.php:5195 ../inc/composer/bk_pd_cfg.php:5373
+#: ../inc/composer/bk_pd_cfg.php:5551 ../inc/composer/bk_pd_cfg.php:5729
+#: ../library/meta_box_config.php:346 ../library/meta_box_config.php:420
+#: ../library/meta_box_config.php:522 ../library/meta_box_config.php:604
+#: ../library/theme-option.php:1401 ../library/theme-option.php:1474
+#: ../library/theme-option.php:1568 ../library/theme-option.php:1632
+#: ../library/theme-option.php:1755 ../library/theme-option.php:1899
+#: ../library/theme-option.php:2003 ../library/theme-option.php:2133
+#: ../library/theme-option.php:2339
+msgid "Post Icon"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:144 ../inc/composer/bk_pd_cfg.php:289
+#: ../inc/composer/bk_pd_cfg.php:433 ../inc/composer/bk_pd_cfg.php:575
+#: ../inc/composer/bk_pd_cfg.php:710 ../inc/composer/bk_pd_cfg.php:868
+#: ../inc/composer/bk_pd_cfg.php:1016 ../inc/composer/bk_pd_cfg.php:1164
+#: ../inc/composer/bk_pd_cfg.php:1175 ../inc/composer/bk_pd_cfg.php:1311
+#: ../inc/composer/bk_pd_cfg.php:1322 ../inc/composer/bk_pd_cfg.php:1464
+#: ../inc/composer/bk_pd_cfg.php:1606 ../inc/composer/bk_pd_cfg.php:1741
+#: ../inc/composer/bk_pd_cfg.php:2191 ../inc/composer/bk_pd_cfg.php:2328
+#: ../inc/composer/bk_pd_cfg.php:2465 ../inc/composer/bk_pd_cfg.php:2601
+#: ../inc/composer/bk_pd_cfg.php:2743 ../inc/composer/bk_pd_cfg.php:2926
+#: ../inc/composer/bk_pd_cfg.php:3105 ../inc/composer/bk_pd_cfg.php:3284
+#: ../inc/composer/bk_pd_cfg.php:3462 ../inc/composer/bk_pd_cfg.php:3640
+#: ../inc/composer/bk_pd_cfg.php:3818 ../inc/composer/bk_pd_cfg.php:4048
+#: ../inc/composer/bk_pd_cfg.php:4194 ../inc/composer/bk_pd_cfg.php:4339
+#: ../inc/composer/bk_pd_cfg.php:4483 ../inc/composer/bk_pd_cfg.php:4662
+#: ../inc/composer/bk_pd_cfg.php:4840 ../inc/composer/bk_pd_cfg.php:5018
+#: ../inc/composer/bk_pd_cfg.php:5196 ../inc/composer/bk_pd_cfg.php:5374
+#: ../inc/composer/bk_pd_cfg.php:5552 ../inc/composer/bk_pd_cfg.php:5730
+msgid "Configure Post Icon on This Module"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:149 ../inc/composer/bk_pd_cfg.php:294
+#: ../inc/composer/bk_pd_cfg.php:438 ../inc/composer/bk_pd_cfg.php:580
+#: ../inc/composer/bk_pd_cfg.php:715 ../inc/composer/bk_pd_cfg.php:873
+#: ../inc/composer/bk_pd_cfg.php:1021 ../inc/composer/bk_pd_cfg.php:1169
+#: ../inc/composer/bk_pd_cfg.php:1180 ../inc/composer/bk_pd_cfg.php:1316
+#: ../inc/composer/bk_pd_cfg.php:1327 ../inc/composer/bk_pd_cfg.php:1469
+#: ../inc/composer/bk_pd_cfg.php:1611 ../inc/composer/bk_pd_cfg.php:1746
+#: ../inc/composer/bk_pd_cfg.php:2196 ../inc/composer/bk_pd_cfg.php:2333
+#: ../inc/composer/bk_pd_cfg.php:2470 ../inc/composer/bk_pd_cfg.php:2606
+#: ../inc/composer/bk_pd_cfg.php:2748 ../inc/composer/bk_pd_cfg.php:2931
+#: ../inc/composer/bk_pd_cfg.php:3110 ../inc/composer/bk_pd_cfg.php:3289
+#: ../inc/composer/bk_pd_cfg.php:3467 ../inc/composer/bk_pd_cfg.php:3645
+#: ../inc/composer/bk_pd_cfg.php:3823 ../inc/composer/bk_pd_cfg.php:4053
+#: ../inc/composer/bk_pd_cfg.php:4199 ../inc/composer/bk_pd_cfg.php:4344
+#: ../inc/composer/bk_pd_cfg.php:4488 ../inc/composer/bk_pd_cfg.php:4667
+#: ../inc/composer/bk_pd_cfg.php:4845 ../inc/composer/bk_pd_cfg.php:5023
+#: ../inc/composer/bk_pd_cfg.php:5201 ../inc/composer/bk_pd_cfg.php:5379
+#: ../inc/composer/bk_pd_cfg.php:5557 ../inc/composer/bk_pd_cfg.php:5735
+msgid "Disable Post Icon"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:150 ../inc/composer/bk_pd_cfg.php:295
+#: ../inc/composer/bk_pd_cfg.php:439 ../inc/composer/bk_pd_cfg.php:581
+#: ../inc/composer/bk_pd_cfg.php:716 ../inc/composer/bk_pd_cfg.php:874
+#: ../inc/composer/bk_pd_cfg.php:1022 ../inc/composer/bk_pd_cfg.php:1170
+#: ../inc/composer/bk_pd_cfg.php:1181 ../inc/composer/bk_pd_cfg.php:1317
+#: ../inc/composer/bk_pd_cfg.php:1328 ../inc/composer/bk_pd_cfg.php:1470
+#: ../inc/composer/bk_pd_cfg.php:1612 ../inc/composer/bk_pd_cfg.php:1747
+#: ../inc/composer/bk_pd_cfg.php:2197 ../inc/composer/bk_pd_cfg.php:2334
+#: ../inc/composer/bk_pd_cfg.php:2471 ../inc/composer/bk_pd_cfg.php:2607
+#: ../inc/composer/bk_pd_cfg.php:2749 ../inc/composer/bk_pd_cfg.php:2932
+#: ../inc/composer/bk_pd_cfg.php:3111 ../inc/composer/bk_pd_cfg.php:3290
+#: ../inc/composer/bk_pd_cfg.php:3468 ../inc/composer/bk_pd_cfg.php:3646
+#: ../inc/composer/bk_pd_cfg.php:3824 ../inc/composer/bk_pd_cfg.php:4054
+#: ../inc/composer/bk_pd_cfg.php:4200 ../inc/composer/bk_pd_cfg.php:4345
+#: ../inc/composer/bk_pd_cfg.php:4489 ../inc/composer/bk_pd_cfg.php:4668
+#: ../inc/composer/bk_pd_cfg.php:4846 ../inc/composer/bk_pd_cfg.php:5024
+#: ../inc/composer/bk_pd_cfg.php:5202 ../inc/composer/bk_pd_cfg.php:5380
+#: ../inc/composer/bk_pd_cfg.php:5558 ../inc/composer/bk_pd_cfg.php:5736
+msgid "Enable Post Icon"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:158
+msgid "Suga Feature B"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:302
+msgid "Suga Feature Slider A"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:445
+msgid "Suga Feature Slider B"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:587
+msgid "Suga Grid A"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:723
+msgid "Suga Grid B"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:760
+msgid "Module Style"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:765
+msgid "Style 1"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:766
+msgid "Style 2"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:785 ../inc/composer/bk_pd_cfg.php:933
+#: ../inc/composer/bk_pd_cfg.php:1082 ../library/meta_box_config.php:313
+#: ../library/meta_box_config.php:507
+msgid "5"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:786 ../library/meta_box_config.php:317
+#: ../library/meta_box_config.php:511
+msgid "9"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:880
+msgid "Suga Grid C"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:932 ../inc/composer/bk_pd_cfg.php:1081
+#: ../library/meta_box_config.php:310 ../library/meta_box_config.php:504
+msgid "2"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:934 ../library/meta_box_config.php:315
+#: ../library/meta_box_config.php:509
+msgid "7"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1028
+msgid "Suga Grid D"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1151 ../inc/composer/bk_pd_cfg.php:1298
+#: ../inc/composer/bk_pd_cfg.php:1451 ../inc/composer/bk_pd_cfg.php:1593
+#: ../inc/composer/bk_pd_cfg.php:1728 ../inc/composer/bk_pd_cfg.php:2315
+#: ../inc/composer/bk_pd_cfg.php:2452 ../inc/composer/bk_pd_cfg.php:2588
+#: ../inc/composer/bk_pd_cfg.php:2730 ../inc/composer/bk_pd_cfg.php:2913
+#: ../inc/composer/bk_pd_cfg.php:3092 ../inc/composer/bk_pd_cfg.php:3271
+#: ../inc/composer/bk_pd_cfg.php:3449 ../inc/composer/bk_pd_cfg.php:3627
+#: ../inc/composer/bk_pd_cfg.php:3805 ../inc/composer/bk_pd_cfg.php:4035
+#: ../inc/composer/bk_pd_cfg.php:4181 ../inc/composer/bk_pd_cfg.php:4326
+#: ../inc/composer/bk_pd_cfg.php:4470 ../inc/composer/bk_pd_cfg.php:4649
+#: ../inc/composer/bk_pd_cfg.php:4827 ../inc/composer/bk_pd_cfg.php:5005
+#: ../inc/composer/bk_pd_cfg.php:5183 ../inc/composer/bk_pd_cfg.php:5361
+#: ../inc/composer/bk_pd_cfg.php:5539 ../inc/composer/bk_pd_cfg.php:5717
+msgid "All - Show All Post Type and Will Not Display Post Icon"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1188
+msgid "Suga Grid E"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1283
+msgid ""
+"Insert the post IDs here, separated by a comma - Must Pick The Gallery Post"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1334
+msgid "Suga Grid F"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1476
+msgid "Suga Grid G"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1618
+msgid "Suga Grid H"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1754
+msgid "Suga Grid I"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1768 ../inc/composer/bk_pd_cfg.php:1872
+#: ../inc/composer/bk_pd_cfg.php:1976 ../inc/composer/bk_pd_cfg.php:2080
+msgid "The Column Title"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1829 ../inc/composer/bk_pd_cfg.php:1933
+#: ../inc/composer/bk_pd_cfg.php:2037 ../inc/composer/bk_pd_cfg.php:2141
+#: ../library/theme-option.php:480 ../library/theme-option.php:2510
+#: ../library/theme-option.php:2522
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1830 ../inc/composer/bk_pd_cfg.php:1934
+#: ../inc/composer/bk_pd_cfg.php:2038 ../inc/composer/bk_pd_cfg.php:2142
+msgid "Upload your background image here"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1836 ../inc/composer/bk_pd_cfg.php:1940
+#: ../inc/composer/bk_pd_cfg.php:2044 ../inc/composer/bk_pd_cfg.php:2148
+msgid "Enable View More Button"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1837 ../inc/composer/bk_pd_cfg.php:1941
+#: ../inc/composer/bk_pd_cfg.php:2045 ../inc/composer/bk_pd_cfg.php:2149
+msgid "Should be displayed at the bottom of column"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1847 ../inc/composer/bk_pd_cfg.php:1951
+#: ../inc/composer/bk_pd_cfg.php:2055 ../inc/composer/bk_pd_cfg.php:2159
+msgid "View More Button Link"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1848 ../inc/composer/bk_pd_cfg.php:1952
+#: ../inc/composer/bk_pd_cfg.php:2056 ../inc/composer/bk_pd_cfg.php:2160
+msgid "Insert the link for the View More button"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1854 ../inc/composer/bk_pd_cfg.php:1958
+#: ../inc/composer/bk_pd_cfg.php:2062 ../inc/composer/bk_pd_cfg.php:2166
+msgid "View More Button Text"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1860 ../inc/composer/bk_pd_cfg.php:1964
+#: ../inc/composer/bk_pd_cfg.php:2068 ../inc/composer/bk_pd_cfg.php:2172
+#: ../inc/composer/bk_pd_cfg.php:2823 ../inc/composer/bk_pd_cfg.php:3002
+#: ../inc/composer/bk_pd_cfg.php:3181 ../inc/composer/bk_pd_cfg.php:3359
+#: ../inc/composer/bk_pd_cfg.php:3537 ../inc/composer/bk_pd_cfg.php:3715
+#: ../inc/composer/bk_pd_cfg.php:4559 ../inc/composer/bk_pd_cfg.php:4737
+#: ../inc/composer/bk_pd_cfg.php:4915 ../inc/composer/bk_pd_cfg.php:5093
+#: ../inc/composer/bk_pd_cfg.php:5271 ../inc/composer/bk_pd_cfg.php:5449
+#: ../inc/composer/bk_pd_cfg.php:5627
+msgid "Target"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1865 ../inc/composer/bk_pd_cfg.php:1969
+#: ../inc/composer/bk_pd_cfg.php:2073 ../inc/composer/bk_pd_cfg.php:2177
+#: ../inc/composer/bk_pd_cfg.php:2828 ../inc/composer/bk_pd_cfg.php:3007
+#: ../inc/composer/bk_pd_cfg.php:3186 ../inc/composer/bk_pd_cfg.php:3364
+#: ../inc/composer/bk_pd_cfg.php:3542 ../inc/composer/bk_pd_cfg.php:3720
+#: ../inc/composer/bk_pd_cfg.php:4564 ../inc/composer/bk_pd_cfg.php:4742
+#: ../inc/composer/bk_pd_cfg.php:4920 ../inc/composer/bk_pd_cfg.php:5098
+#: ../inc/composer/bk_pd_cfg.php:5276 ../inc/composer/bk_pd_cfg.php:5454
+#: ../inc/composer/bk_pd_cfg.php:5632
+msgid "Open link in new tab"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:1866 ../inc/composer/bk_pd_cfg.php:1970
+#: ../inc/composer/bk_pd_cfg.php:2074 ../inc/composer/bk_pd_cfg.php:2178
+#: ../inc/composer/bk_pd_cfg.php:2829 ../inc/composer/bk_pd_cfg.php:3008
+#: ../inc/composer/bk_pd_cfg.php:3187 ../inc/composer/bk_pd_cfg.php:3365
+#: ../inc/composer/bk_pd_cfg.php:3543 ../inc/composer/bk_pd_cfg.php:3721
+#: ../inc/composer/bk_pd_cfg.php:4565 ../inc/composer/bk_pd_cfg.php:4743
+#: ../inc/composer/bk_pd_cfg.php:4921 ../inc/composer/bk_pd_cfg.php:5099
+#: ../inc/composer/bk_pd_cfg.php:5277 ../inc/composer/bk_pd_cfg.php:5455
+#: ../inc/composer/bk_pd_cfg.php:5633
+msgid "Open link in current tab"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2204
+msgid "Suga Grid J"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2299 ../inc/composer/bk_pd_cfg.php:2436
+#: ../inc/composer/bk_pd_cfg.php:2572
+msgid ""
+"Insert the post IDs here, separated by a comma, Must pick the Review Posts"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2341
+msgid "Suga Grid K"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2477
+msgid "Suga Grid L"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2614
+msgid "Carousel Heading Aside"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2633
+msgid "Sub Title"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2634
+msgid "The Module Sub Title"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2640
+msgid "Carousel Loop"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2645
+msgid "True"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2646
+msgid "False"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2715
+msgid ""
+"Insert the post IDs here, separated by a comma - Must Pick The Video Posts"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2759 ../inc/composer/bk_pd_cfg.php:4496
+msgid "Posts Listing Grid"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2797 ../inc/composer/bk_pd_cfg.php:2976
+#: ../inc/composer/bk_pd_cfg.php:3155 ../inc/composer/bk_pd_cfg.php:3333
+#: ../inc/composer/bk_pd_cfg.php:3511 ../inc/composer/bk_pd_cfg.php:3689
+#: ../inc/composer/bk_pd_cfg.php:4533 ../inc/composer/bk_pd_cfg.php:4711
+#: ../inc/composer/bk_pd_cfg.php:4889 ../inc/composer/bk_pd_cfg.php:5067
+#: ../inc/composer/bk_pd_cfg.php:5245 ../inc/composer/bk_pd_cfg.php:5423
+#: ../inc/composer/bk_pd_cfg.php:5601 ../library/meta_box_config.php:978
+#: ../library/meta_box_config.php:1107 ../library/theme-option.php:1773
+#: ../library/theme-option.php:1917 ../library/theme-option.php:2020
+#: ../library/theme-option.php:2151 ../library/theme-option.php:2355
+msgid "Ajax Load More"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2798 ../inc/composer/bk_pd_cfg.php:2977
+#: ../inc/composer/bk_pd_cfg.php:3156 ../inc/composer/bk_pd_cfg.php:3334
+#: ../inc/composer/bk_pd_cfg.php:3512 ../inc/composer/bk_pd_cfg.php:3690
+#: ../inc/composer/bk_pd_cfg.php:4534 ../inc/composer/bk_pd_cfg.php:4712
+#: ../inc/composer/bk_pd_cfg.php:4890 ../inc/composer/bk_pd_cfg.php:5068
+#: ../inc/composer/bk_pd_cfg.php:5246 ../inc/composer/bk_pd_cfg.php:5424
+#: ../inc/composer/bk_pd_cfg.php:5602
+msgid "Select an Ajax Load More Type"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2803 ../inc/composer/bk_pd_cfg.php:2982
+#: ../inc/composer/bk_pd_cfg.php:3161 ../inc/composer/bk_pd_cfg.php:3339
+#: ../inc/composer/bk_pd_cfg.php:3517 ../inc/composer/bk_pd_cfg.php:3695
+#: ../inc/composer/bk_pd_cfg.php:4539 ../inc/composer/bk_pd_cfg.php:4717
+#: ../inc/composer/bk_pd_cfg.php:4895 ../inc/composer/bk_pd_cfg.php:5073
+#: ../inc/composer/bk_pd_cfg.php:5251 ../inc/composer/bk_pd_cfg.php:5429
+#: ../inc/composer/bk_pd_cfg.php:5607 ../library/meta_box_config.php:124
+#: ../library/meta_box_config.php:350 ../library/meta_box_config.php:424
+#: ../library/meta_box_config.php:526 ../library/meta_box_config.php:540
+#: ../library/meta_box_config.php:608 ../library/meta_box_config.php:622
+#: ../library/meta_box_config.php:667 ../library/meta_box_config.php:991
+#: ../library/meta_box_config.php:1027 ../library/meta_box_config.php:1143
+#: ../library/theme-option.php:590 ../library/theme-option.php:817
+#: ../library/theme-option.php:1206 ../library/theme-option.php:1405
+#: ../library/theme-option.php:1478 ../library/theme-option.php:1489
+#: ../library/theme-option.php:1572 ../library/theme-option.php:1636
+#: ../library/theme-option.php:1647 ../library/theme-option.php:1759
+#: ../library/theme-option.php:1784 ../library/theme-option.php:1830
+#: ../library/theme-option.php:1903 ../library/theme-option.php:1963
+#: ../library/theme-option.php:2007 ../library/theme-option.php:2066
+#: ../library/theme-option.php:2137 ../library/theme-option.php:2197
+#: ../library/theme-option.php:2343 ../library/theme-option.php:2401
+#: ../library/theme-option.php:2487 ../library/theme-option.php:2584
+#: ../library/theme-option.php:2795 ../library/theme-option.php:2855
+#: ../library/theme-option.php:2902 ../library/theme-option.php:2934
+msgid "Disable"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2804 ../inc/composer/bk_pd_cfg.php:2983
+#: ../inc/composer/bk_pd_cfg.php:3162 ../inc/composer/bk_pd_cfg.php:3340
+#: ../inc/composer/bk_pd_cfg.php:3518 ../inc/composer/bk_pd_cfg.php:3696
+#: ../inc/composer/bk_pd_cfg.php:4540 ../inc/composer/bk_pd_cfg.php:4718
+#: ../inc/composer/bk_pd_cfg.php:4896 ../inc/composer/bk_pd_cfg.php:5074
+#: ../inc/composer/bk_pd_cfg.php:5252 ../inc/composer/bk_pd_cfg.php:5430
+#: ../inc/composer/bk_pd_cfg.php:5608 ../library/meta_box_config.php:977
+#: ../library/meta_box_config.php:1106 ../library/theme-option.php:1772
+#: ../library/theme-option.php:1916 ../library/theme-option.php:2019
+#: ../library/theme-option.php:2150
+msgid "Ajax Pagination"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2805 ../inc/composer/bk_pd_cfg.php:2984
+#: ../inc/composer/bk_pd_cfg.php:3163 ../inc/composer/bk_pd_cfg.php:3341
+#: ../inc/composer/bk_pd_cfg.php:3519 ../inc/composer/bk_pd_cfg.php:3697
+#: ../inc/composer/bk_pd_cfg.php:4541 ../inc/composer/bk_pd_cfg.php:4719
+#: ../inc/composer/bk_pd_cfg.php:4897 ../inc/composer/bk_pd_cfg.php:5075
+#: ../inc/composer/bk_pd_cfg.php:5253 ../inc/composer/bk_pd_cfg.php:5431
+#: ../inc/composer/bk_pd_cfg.php:5609
+msgid "Ajax Load More Button"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2806 ../inc/composer/bk_pd_cfg.php:2985
+#: ../inc/composer/bk_pd_cfg.php:3164 ../inc/composer/bk_pd_cfg.php:3342
+#: ../inc/composer/bk_pd_cfg.php:3520 ../inc/composer/bk_pd_cfg.php:3698
+#: ../inc/composer/bk_pd_cfg.php:4542 ../inc/composer/bk_pd_cfg.php:4720
+#: ../inc/composer/bk_pd_cfg.php:4898 ../inc/composer/bk_pd_cfg.php:5076
+#: ../inc/composer/bk_pd_cfg.php:5254 ../inc/composer/bk_pd_cfg.php:5432
+#: ../inc/composer/bk_pd_cfg.php:5610
+msgid "View All Button"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2810 ../inc/composer/bk_pd_cfg.php:2989
+#: ../inc/composer/bk_pd_cfg.php:3168 ../inc/composer/bk_pd_cfg.php:3346
+#: ../inc/composer/bk_pd_cfg.php:3524 ../inc/composer/bk_pd_cfg.php:3702
+#: ../inc/composer/bk_pd_cfg.php:4546 ../inc/composer/bk_pd_cfg.php:4724
+#: ../inc/composer/bk_pd_cfg.php:4902 ../inc/composer/bk_pd_cfg.php:5080
+#: ../inc/composer/bk_pd_cfg.php:5258 ../inc/composer/bk_pd_cfg.php:5436
+#: ../inc/composer/bk_pd_cfg.php:5614
+msgid "View All Button Link"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2811 ../inc/composer/bk_pd_cfg.php:2990
+#: ../inc/composer/bk_pd_cfg.php:3169 ../inc/composer/bk_pd_cfg.php:3347
+#: ../inc/composer/bk_pd_cfg.php:3525 ../inc/composer/bk_pd_cfg.php:3703
+#: ../inc/composer/bk_pd_cfg.php:4547 ../inc/composer/bk_pd_cfg.php:4725
+#: ../inc/composer/bk_pd_cfg.php:4903 ../inc/composer/bk_pd_cfg.php:5081
+#: ../inc/composer/bk_pd_cfg.php:5259 ../inc/composer/bk_pd_cfg.php:5437
+#: ../inc/composer/bk_pd_cfg.php:5615
+msgid "Insert the link for the View All button"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2817 ../inc/composer/bk_pd_cfg.php:2996
+#: ../inc/composer/bk_pd_cfg.php:3175 ../inc/composer/bk_pd_cfg.php:3353
+#: ../inc/composer/bk_pd_cfg.php:3531 ../inc/composer/bk_pd_cfg.php:3709
+#: ../inc/composer/bk_pd_cfg.php:4553 ../inc/composer/bk_pd_cfg.php:4731
+#: ../inc/composer/bk_pd_cfg.php:4909 ../inc/composer/bk_pd_cfg.php:5087
+#: ../inc/composer/bk_pd_cfg.php:5265 ../inc/composer/bk_pd_cfg.php:5443
+#: ../inc/composer/bk_pd_cfg.php:5621
+msgid "View All Button Text"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2842 ../inc/composer/bk_pd_cfg.php:4756
+msgid "Enter the number of posts (Should be divisible by 3. Default: 6.)"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2898 ../inc/composer/bk_pd_cfg.php:3077
+#: ../inc/composer/bk_pd_cfg.php:3256 ../inc/composer/bk_pd_cfg.php:3434
+#: ../inc/composer/bk_pd_cfg.php:3612 ../inc/composer/bk_pd_cfg.php:3790
+#: ../inc/composer/bk_pd_cfg.php:4020 ../inc/composer/bk_pd_cfg.php:4166
+#: ../inc/composer/bk_pd_cfg.php:4311 ../inc/composer/bk_pd_cfg.php:4455
+#: ../inc/composer/bk_pd_cfg.php:4634 ../inc/composer/bk_pd_cfg.php:4812
+#: ../inc/composer/bk_pd_cfg.php:4990 ../inc/composer/bk_pd_cfg.php:5168
+#: ../inc/composer/bk_pd_cfg.php:5346 ../inc/composer/bk_pd_cfg.php:5524
+#: ../inc/composer/bk_pd_cfg.php:5702
+msgid ""
+"Insert the post IDs here, separated by a comma, Must Pick the Video Posts"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:2938 ../inc/composer/bk_pd_cfg.php:4674
+msgid "Posts Listing Grid Small"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3021
+msgid "Enter the number of posts (Should be divisible by 4. Default: 8.)"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3118 ../inc/composer/bk_pd_cfg.php:4852
+msgid "Posts Listing List A"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3296 ../inc/composer/bk_pd_cfg.php:5030
+msgid "Posts Listing List B"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3474 ../inc/composer/bk_pd_cfg.php:5386
+msgid "Posts Listing List Alt A"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3652 ../inc/composer/bk_pd_cfg.php:5564
+msgid "Posts Listing List Alt B"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3830 ../inc/composer/bk_pd_cfg.php:5742
+msgid "Custom HTML"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3863 ../inc/composer/bk_pd_cfg.php:5775
+msgid "HTML Code"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3864 ../inc/composer/bk_pd_cfg.php:5776
+msgid "Put your custom HTML code here"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3878 ../inc/composer/bk_pd_cfg.php:5783
+msgid "Short Code"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3911 ../inc/composer/bk_pd_cfg.php:5816
+msgid "Shortcode -- separated by [shortcode_separator]"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3912 ../inc/composer/bk_pd_cfg.php:5817
+msgid ""
+"Put Shortcode here -- the shortcodes are separated by [shortcode_separator] "
+"-- eg: [shortcode1]  [shortcode_separator]  [shortcode2]"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:3923
+msgid "Suga Main Col Grid A"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:4062
+msgid "Suga Main Col Grid B"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:4207
+msgid "Suga Main Col Grid C"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:4351
+msgid "Suga Main Col Grid D"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:4578
+msgid "Enter the number of posts (Should be even number: 4, 6, 8, etc.)"
+msgstr ""
+
+#: ../inc/composer/bk_pd_cfg.php:5208
+msgid "Posts Listing List C"
+msgstr ""
+
+#: ../inc/libs/suga_archive.php:62
+msgid "Load more authors"
+msgstr ""
+
+#: ../inc/libs/suga_archive.php:209
+msgid "Tag: "
+msgstr ""
+
+#: ../inc/libs/suga_core.php:636 ../library/ajax/ajax-function.php:149
+msgid "View all"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:893
+msgid "0 Comments"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:895
+msgid " Comments"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:897
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:913 ../inc/libs/suga_core.php:922
+#: ../inc/modules/horizontal_feat_block_a.php:41
+#: ../library/templates/header/suga_header.php:115
+#: ../library/templates/header/suga_header.php:169
+msgid " ago"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:939
+msgid "views"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:941
+msgid "view"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:951
+msgid "No Case Matched!"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:1251
+msgid "Image alt"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:1296
+msgid "Please put the correct video link to the video post format section"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:1433
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:1436 ../library/meta_box_config.php:309
+#: ../library/meta_box_config.php:503
+msgid "1"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:1437
+msgid "%TOTAL_PAGES%"
+msgstr ""
+
+#: ../inc/libs/suga_core.php:1442 ../inc/libs/suga_core.php:1443
+msgid "..."
+msgstr ""
+
+#: ../inc/libs/suga_core.php:1521 ../library/core.php:52
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:11
+msgid "Classic Editor"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:21
+msgid "Redux Framework"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:31
+msgid "BKNinja Composer"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:32
+msgid "bkninja-composer"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:40
+msgid "Social Login WordPress Plugin - AccessPress Social Login Lite"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:49
+msgid "Meta Box"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:58
+msgid "MB Term Meta"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:59
+msgid "mb-term-meta"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:67
+msgid "Meta Box Conditional Logic"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:68
+msgid "meta-box-conditional-logic"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:76
+msgid "Suga Extension"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:77
+msgid "suga-extension"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:84
+msgid "Login With Ajax"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:93
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:102
+msgid "Suga Sidebar Generator"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:112
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:114
+msgid "Contact Form 7 - Optional"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:122
+msgid "Suga Admin Panel"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:124
+msgid "Suga Admin Panel - Optional"
+msgstr ""
+
+#: ../inc/libs/suga_tgm_activation.php:158
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:607
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:608
+msgid " likes"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:623
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:624
+msgid " followers"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:639
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:640
+msgid " subscribers"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:655
+msgid "Google +"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:656 ../inc/libs/suga_widget.php:672
+#: ../inc/libs/suga_widget.php:688 ../inc/libs/suga_widget.php:704
+msgid " followers "
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:671
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:687
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:703
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:902
+msgid " Articles"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:917
+msgid "Nothing to search for"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:971
+msgid "No images found"
+msgstr ""
+
+#: ../inc/libs/suga_widget.php:988
+msgid "Instagram Image"
+msgstr ""
+
+#: ../inc/modules/suga/suga_horizontal_1.php:62
+#: ../inc/modules/suga/suga_horizontal_2.php:51
+#: ../inc/modules/suga/suga_overlay_nothumb_1.php:45
+#: ../inc/modules/suga/suga_vertical_2.php:54
+msgid "Read more"
+msgstr ""
+
+#: ../inc/modules/thumb_overlap.php:38
+msgid "image"
+msgstr ""
+
+#: ../library/ajax/ajax-function.php:33 ../library/theme-option.php:367
+msgid "Load more news"
+msgstr ""
+
+#: ../library/ajax/ajax-function.php:40 ../library/theme-option.php:373
+msgid "No more news"
+msgstr ""
+
+#: ../library/ajax/ajax-function.php:66 ../library/ajax/ajax-function.php:96
+msgid "View more"
+msgstr ""
+
+#: ../library/ajax/ajax-search.php:92
+msgid "Show all results"
+msgstr ""
+
+#: ../library/ajax/ajax-search.php:112 ../library/ajax/ajax-search.php:131
+msgid "No results"
+msgstr ""
+
+#: ../library/core.php:19
+msgid "at"
+msgstr ""
+
+#: ../library/core.php:21
+msgid "Edit"
+msgstr ""
+
+#: ../library/core.php:28
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../library/custom_css.php:211
+msgid "Now playing"
+msgstr ""
+
+#: ../library/mega_menu.php:176
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../library/mega_menu.php:180
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../library/mega_menu.php:193
+msgid "sub item"
+msgstr ""
+
+#: ../library/mega_menu.php:208
+msgid "Move up"
+msgstr ""
+
+#: ../library/mega_menu.php:221
+msgid "Move down"
+msgstr ""
+
+#: ../library/mega_menu.php:223 ../library/mega_menu.php:225
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../library/mega_menu.php:234
+msgid "URL"
+msgstr ""
+
+#: ../library/mega_menu.php:241
+msgid "Navigation Label"
+msgstr ""
+
+#: ../library/mega_menu.php:247
+msgid "Title Attribute"
+msgstr ""
+
+#: ../library/mega_menu.php:254
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../library/mega_menu.php:259
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../library/mega_menu.php:265
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../library/mega_menu.php:281
+msgid "Default: 4 Normal Posts"
+msgstr ""
+
+#: ../library/mega_menu.php:282
+msgid "First Large Then Normal Posts"
+msgstr ""
+
+#: ../library/mega_menu.php:289 ../library/meta_box_config.php:779
+msgid "Description"
+msgstr ""
+
+#: ../library/mega_menu.php:292
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../library/mega_menu.php:297
+msgid "Move"
+msgstr ""
+
+#: ../library/mega_menu.php:298
+msgid "Up one"
+msgstr ""
+
+#: ../library/mega_menu.php:299
+msgid "Down one"
+msgstr ""
+
+#: ../library/mega_menu.php:302
+msgid "To the top"
+msgstr ""
+
+#: ../library/mega_menu.php:309
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../library/mega_menu.php:322
+msgid "Remove"
+msgstr ""
+
+#: ../library/mega_menu.php:323
+msgid "Cancel"
+msgstr ""
+
+#: ../library/meta_box_config.php:20 ../library/meta_box_config.php:54
+#: ../library/meta_box_config.php:74 ../library/meta_box_config.php:88
+#: ../library/meta_box_config.php:122 ../library/meta_box_config.php:183
+#: ../library/meta_box_config.php:208 ../library/meta_box_config.php:221
+#: ../library/meta_box_config.php:234 ../library/meta_box_config.php:247
+#: ../library/meta_box_config.php:277 ../library/meta_box_config.php:293
+#: ../library/meta_box_config.php:308 ../library/meta_box_config.php:349
+#: ../library/meta_box_config.php:376 ../library/meta_box_config.php:392
+#: ../library/meta_box_config.php:423 ../library/meta_box_config.php:468
+#: ../library/meta_box_config.php:502 ../library/meta_box_config.php:525
+#: ../library/meta_box_config.php:538 ../library/meta_box_config.php:575
+#: ../library/meta_box_config.php:607 ../library/meta_box_config.php:620
+#: ../library/meta_box_config.php:665 ../library/meta_box_config.php:902
+#: ../library/meta_box_config.php:914 ../library/meta_box_config.php:926
+#: ../library/meta_box_config.php:975 ../library/meta_box_config.php:989
+#: ../library/meta_box_config.php:1025 ../library/meta_box_config.php:1056
+#: ../library/meta_box_config.php:1104 ../library/meta_box_config.php:1141
+msgid "From Theme Options"
+msgstr ""
+
+#: ../library/meta_box_config.php:25 ../library/meta_box_config.php:32
+msgid "Page Description"
+msgstr ""
+
+#: ../library/meta_box_config.php:35
+msgid "description ..."
+msgstr ""
+
+#: ../library/meta_box_config.php:43
+msgid "Page Settings"
+msgstr ""
+
+#: ../library/meta_box_config.php:70
+msgid "Featured Image"
+msgstr ""
+
+#: ../library/meta_box_config.php:75 ../library/meta_box_config.php:184
+#: ../library/theme-option.php:1122
+msgid "On"
+msgstr ""
+
+#: ../library/meta_box_config.php:76 ../library/meta_box_config.php:185
+#: ../library/theme-option.php:1123
+msgid "Off"
+msgstr ""
+
+#: ../library/meta_box_config.php:84 ../library/meta_box_config.php:328
+#: ../library/meta_box_config.php:404 ../library/meta_box_config.php:481
+#: ../library/meta_box_config.php:588 ../library/theme-option.php:1345
+#: ../library/theme-option.php:1431 ../library/theme-option.php:2746
+msgid "Layout"
+msgstr ""
+
+#: ../library/meta_box_config.php:89 ../library/theme-option.php:2748
+msgid "Has Sidebar"
+msgstr ""
+
+#: ../library/meta_box_config.php:90 ../library/theme-option.php:2749
+msgid "Full Width -- No sidebar"
+msgstr ""
+
+#: ../library/meta_box_config.php:98 ../library/meta_box_config.php:997
+#: ../library/meta_box_config.php:1113
+msgid "Choose a sidebar for this page"
+msgstr ""
+
+#: ../library/meta_box_config.php:106 ../library/meta_box_config.php:1007
+#: ../library/meta_box_config.php:1123
+msgid "Sidebar Position -- Left/Right"
+msgstr ""
+
+#: ../library/meta_box_config.php:118 ../library/meta_box_config.php:1021
+#: ../library/meta_box_config.php:1137
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: ../library/meta_box_config.php:123 ../library/meta_box_config.php:351
+#: ../library/meta_box_config.php:425 ../library/meta_box_config.php:527
+#: ../library/meta_box_config.php:539 ../library/meta_box_config.php:609
+#: ../library/meta_box_config.php:621 ../library/meta_box_config.php:666
+#: ../library/meta_box_config.php:990 ../library/meta_box_config.php:1026
+#: ../library/meta_box_config.php:1142 ../library/theme-option.php:589
+#: ../library/theme-option.php:816 ../library/theme-option.php:1205
+#: ../library/theme-option.php:1404 ../library/theme-option.php:1477
+#: ../library/theme-option.php:1488 ../library/theme-option.php:1571
+#: ../library/theme-option.php:1635 ../library/theme-option.php:1646
+#: ../library/theme-option.php:1758 ../library/theme-option.php:1783
+#: ../library/theme-option.php:1829 ../library/theme-option.php:1902
+#: ../library/theme-option.php:1962 ../library/theme-option.php:2006
+#: ../library/theme-option.php:2065 ../library/theme-option.php:2136
+#: ../library/theme-option.php:2196 ../library/theme-option.php:2342
+#: ../library/theme-option.php:2400 ../library/theme-option.php:2486
+#: ../library/theme-option.php:2583 ../library/theme-option.php:2794
+#: ../library/theme-option.php:2854 ../library/theme-option.php:2901
+#: ../library/theme-option.php:2933
+msgid "Enable"
+msgstr ""
+
+#: ../library/meta_box_config.php:126
+msgid ""
+"From Theme Options setting option is set in Theme Option -> Default Page "
+"Template"
+msgstr ""
+
+#: ../library/meta_box_config.php:135
+msgid "BK Layout Options"
+msgstr ""
+
+#: ../library/meta_box_config.php:136
+msgid "From Theme Option: Theme Options -> Single Page"
+msgstr ""
+
+#: ../library/meta_box_config.php:145
+msgid "Post Layout Option"
+msgstr ""
+
+#: ../library/meta_box_config.php:179 ../library/theme-option.php:1118
+msgid "Featured Image Config"
+msgstr ""
+
+#: ../library/meta_box_config.php:197
+msgid "BK Single Post Section Show/Hide"
+msgstr ""
+
+#: ../library/meta_box_config.php:205
+msgid "Author Box"
+msgstr ""
+
+#: ../library/meta_box_config.php:209 ../library/meta_box_config.php:222
+#: ../library/meta_box_config.php:235 ../library/meta_box_config.php:248
+#: ../library/theme-option.php:2738
+msgid "Show"
+msgstr ""
+
+#: ../library/meta_box_config.php:210 ../library/meta_box_config.php:223
+#: ../library/meta_box_config.php:236 ../library/meta_box_config.php:249
+#: ../library/theme-option.php:2739
+msgid "Hide"
+msgstr ""
+
+#: ../library/meta_box_config.php:218
+msgid "Post Nav Section"
+msgstr ""
+
+#: ../library/meta_box_config.php:231 ../library/theme-option.php:1153
+msgid "Related Section"
+msgstr ""
+
+#: ../library/meta_box_config.php:244 ../library/theme-option.php:1155
+msgid "Same Category Section"
+msgstr ""
+
+#: ../library/meta_box_config.php:259
+msgid "BK Related Post Setting"
+msgstr ""
+
+#: ../library/meta_box_config.php:274 ../library/meta_box_config.php:373
+#: ../library/meta_box_config.php:465 ../library/meta_box_config.php:572
+#: ../library/theme-option.php:1361 ../library/theme-option.php:1447
+msgid "Heading Style"
+msgstr ""
+
+#: ../library/meta_box_config.php:290 ../library/meta_box_config.php:389
+#: ../library/theme-option.php:1380
+msgid "Related Posts"
+msgstr ""
+
+#: ../library/meta_box_config.php:294 ../library/meta_box_config.php:393
+#: ../library/theme-option.php:1383 ../library/theme-option.php:1558
+msgid "Same Categories and Tags"
+msgstr ""
+
+#: ../library/meta_box_config.php:295 ../library/meta_box_config.php:394
+#: ../library/theme-option.php:1384 ../library/theme-option.php:1559
+msgid "Same Tags"
+msgstr ""
+
+#: ../library/meta_box_config.php:296 ../library/meta_box_config.php:395
+#: ../library/theme-option.php:1385 ../library/theme-option.php:1560
+msgid "Same Categories"
+msgstr ""
+
+#: ../library/meta_box_config.php:297 ../library/meta_box_config.php:396
+#: ../library/theme-option.php:1386 ../library/theme-option.php:1561
+msgid "Same Author"
+msgstr ""
+
+#: ../library/meta_box_config.php:305 ../library/theme-option.php:1393
+msgid "Number of Related Posts"
+msgstr ""
+
+#: ../library/meta_box_config.php:311 ../library/meta_box_config.php:505
+msgid "3"
+msgstr ""
+
+#: ../library/meta_box_config.php:312 ../library/meta_box_config.php:506
+msgid "4"
+msgstr ""
+
+#: ../library/meta_box_config.php:314 ../library/meta_box_config.php:508
+msgid "6"
+msgstr ""
+
+#: ../library/meta_box_config.php:316 ../library/meta_box_config.php:510
+msgid "8"
+msgstr ""
+
+#: ../library/meta_box_config.php:318 ../library/meta_box_config.php:512
+msgid "10"
+msgstr ""
+
+#: ../library/meta_box_config.php:319 ../library/meta_box_config.php:513
+msgid "11"
+msgstr ""
+
+#: ../library/meta_box_config.php:320 ../library/meta_box_config.php:514
+msgid "12"
+msgstr ""
+
+#: ../library/meta_box_config.php:361
+msgid "BK Related Post Section - Wide Setting"
+msgstr ""
+
+#: ../library/meta_box_config.php:435
+msgid "Current Category"
+msgstr ""
+
+#: ../library/meta_box_config.php:441
+msgid "BK Same Category Posts Setting"
+msgstr ""
+
+#: ../library/meta_box_config.php:456 ../library/meta_box_config.php:563
+msgid "Category: "
+msgstr ""
+
+#: ../library/meta_box_config.php:535 ../library/meta_box_config.php:617
+#: ../library/theme-option.php:1485 ../library/theme-option.php:1643
+msgid "More Link"
+msgstr ""
+
+#: ../library/meta_box_config.php:551
+msgid "BK Same Category Post Section - Wide Setting"
+msgstr ""
+
+#: ../library/meta_box_config.php:631
+msgid "Sidebar Option"
+msgstr ""
+
+#: ../library/meta_box_config.php:639
+msgid "Choose a sidebar for this post"
+msgstr ""
+
+#: ../library/meta_box_config.php:643
+msgid "Sidebar Select"
+msgstr ""
+
+#: ../library/meta_box_config.php:649
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../library/meta_box_config.php:662
+msgid "Sidebar Sticky"
+msgstr ""
+
+#: ../library/meta_box_config.php:677
+msgid "BK Video Post Format"
+msgstr ""
+
+#: ../library/meta_box_config.php:685
+msgid "Format Options: Video"
+msgstr ""
+
+#: ../library/meta_box_config.php:686
+msgid "Support Youtube, Vimeo Link"
+msgstr ""
+
+#: ../library/meta_box_config.php:689
+msgid "Link ..."
+msgstr ""
+
+#: ../library/meta_box_config.php:696
+msgid "BK Gallery Post Format"
+msgstr ""
+
+#: ../library/meta_box_config.php:704
+msgid "Format Options: Gallery"
+msgstr ""
+
+#: ../library/meta_box_config.php:705
+msgid "Gallery Images"
+msgstr ""
+
+#: ../library/meta_box_config.php:712
+msgid "Gallery Type"
+msgstr ""
+
+#: ../library/meta_box_config.php:715
+msgid "Gallery 1"
+msgstr ""
+
+#: ../library/meta_box_config.php:716
+msgid "Gallery 2 "
+msgstr ""
+
+#: ../library/meta_box_config.php:717
+msgid "Gallery 3"
+msgstr ""
+
+#: ../library/meta_box_config.php:728
+msgid "BK Review System"
+msgstr ""
+
+#: ../library/meta_box_config.php:736
+msgid "Review Box"
+msgstr ""
+
+#: ../library/meta_box_config.php:739
+msgid "Enable Review On This Post"
+msgstr ""
+
+#: ../library/meta_box_config.php:748
+msgid "Review Box Position"
+msgstr ""
+
+#: ../library/meta_box_config.php:751
+msgid "Default -- Under the post content"
+msgstr ""
+
+#: ../library/meta_box_config.php:752
+msgid "Aside Left "
+msgstr ""
+
+#: ../library/meta_box_config.php:753
+msgid "Aside Right"
+msgstr ""
+
+#: ../library/meta_box_config.php:771
+msgid "Product name"
+msgstr ""
+
+#: ../library/meta_box_config.php:792
+msgid "Review Score"
+msgstr ""
+
+#: ../library/meta_box_config.php:809
+msgid "Summary"
+msgstr ""
+
+#: ../library/meta_box_config.php:824
+msgid "Pros and Cons"
+msgstr ""
+
+#: ../library/meta_box_config.php:827
+msgid "Enable Pros and Cons On This Post"
+msgstr ""
+
+#: ../library/meta_box_config.php:836
+msgid "Pros Title"
+msgstr ""
+
+#: ../library/meta_box_config.php:844
+msgid "Pros (Advantages)"
+msgstr ""
+
+#: ../library/meta_box_config.php:857
+msgid "Cons Title"
+msgstr ""
+
+#: ../library/meta_box_config.php:865
+msgid "Cons (Disadvantages)"
+msgstr ""
+
+#: ../library/meta_box_config.php:884
+msgid "Feature Area"
+msgstr ""
+
+#: ../library/meta_box_config.php:895 ../library/meta_box_config.php:1069
+#: ../library/meta_box_config.php:1097 ../library/meta_box_config.php:1117
+#: ../library/meta_box_config.php:1131 ../library/meta_box_config.php:1145
+msgid "From Theme Options setting option is set in Theme Option -> Archive"
+msgstr ""
+
+#: ../library/meta_box_config.php:903 ../library/theme-option.php:1683
+msgid "Show Featured Posts"
+msgstr ""
+
+#: ../library/meta_box_config.php:904 ../library/theme-option.php:1684
+msgid "Show Latest Posts"
+msgstr ""
+
+#: ../library/meta_box_config.php:907 ../library/meta_box_config.php:919
+#: ../library/meta_box_config.php:939 ../library/meta_box_config.php:968
+#: ../library/meta_box_config.php:981 ../library/meta_box_config.php:1001
+#: ../library/meta_box_config.php:1015 ../library/meta_box_config.php:1029
+#: ../library/meta_box_config.php:1110
+msgid "From Theme Options setting option is set in Theme Option -> Category"
+msgstr ""
+
+#: ../library/meta_box_config.php:947 ../library/meta_box_config.php:1077
+msgid "Content Layouts"
+msgstr ""
+
+#: ../library/meta_box_config.php:976 ../library/meta_box_config.php:1105
+#: ../library/theme-option.php:1771 ../library/theme-option.php:1915
+#: ../library/theme-option.php:2018 ../library/theme-option.php:2149
+#: ../library/theme-option.php:2354
+msgid "Default Pagination"
+msgstr ""
+
+#: ../library/meta_box_config.php:994
+msgid ""
+"Content Section: Exclude Featured Posts that are shown on the Feature Area"
+msgstr ""
+
+#: ../library/templates/header/header-search-popup.php:18
+msgid "Type to search"
+msgstr ""
+
+#: ../library/templates/header/header-search-popup.php:29
+#: ../library/theme-option.php:2214
+msgid "Recommend Posts"
+msgstr ""
+
+#: ../library/templates/header/header-search-popup.php:125
+#: ../library/theme-option.php:2254
+msgid "Popular Tags"
+msgstr ""
+
+#: ../library/templates/header/header-search-popup.php:150
+#: ../library/theme-option.php:2278
+msgid "Popular Search"
+msgstr ""
+
+#: ../library/templates/header/partials/header-1.php:74
+#: ../library/templates/header/partials/header-7.php:65
+msgid "Subscribe"
+msgstr ""
+
+#: ../library/templates/header/partials/header-10.php:125
+#: ../library/templates/header/partials/header-4.php:120
+#: ../library/templates/header/partials/header-7.php:104
+#: ../library/templates/header/suga-sticky-header.php:120
+msgid "Login"
+msgstr ""
+
+#: ../library/templates/header/suga_header.php:126
+#: ../library/templates/single/single-entry-meta.php:22
+msgid "By"
+msgstr ""
+
+#: ../library/templates/offcanvas/offcanvas-desktop.php:92
+msgid "Login/Sign up"
+msgstr ""
+
+#: ../library/templates/single/partials/single-17.php:57
+msgid "Watch next"
+msgstr ""
+
+#: ../library/templates/single/single-entry-meta.php:26
+msgid " and "
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:105
+msgid "Previous Post"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:113
+msgid "Next article"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:291
+#: ../library/templates/single/suga_single.php:479
+msgid "You may also like"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:579
+#: ../library/templates/single/suga_single.php:740
+msgid "More in"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:588
+#: ../library/templates/single/suga_single.php:747
+msgid "View all "
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:800
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:803
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:806
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:809
+msgid "Share on Linkedin"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:1064
+msgid "Page "
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:1070
+msgid "Previous"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:1071
+msgid "Next"
+msgstr ""
+
+#: ../library/templates/single/suga_single.php:1186
+msgid "product-image"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:8
+msgid "Log in"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:10
+msgid "Sign up"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:24
+#: ../library/templates/suga-login-modal.php:63
+msgid "or"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:31
+#: ../library/templates/suga-login-modal.php:65
+msgid "Username"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:35
+msgid "Password"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:40
+msgid "forever"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:40
+msgid "Remember Me"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:43
+msgid "Log In"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:45
+msgid "login"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:51
+msgid "Password Lost and Found"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:51
+msgid "Lost your password?"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:69
+msgid "E-mail"
+msgstr ""
+
+#: ../library/templates/suga-login-modal.php:73
+#: ../library/templates/suga-login-modal.php:74
+msgid "Sign Up"
+msgstr ""
+
+#: ../library/theme-option.php:118
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../library/theme-option.php:125 ../library/theme-option.php:128
+msgid "Current theme preview"
+msgstr ""
+
+#: ../library/theme-option.php:137
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../library/theme-option.php:138
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../library/theme-option.php:143
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../library/theme-option.php:144
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../library/theme-option.php:189
+msgid "General Settings"
+msgstr ""
+
+#: ../library/theme-option.php:194
+msgid "Primary color"
+msgstr ""
+
+#: ../library/theme-option.php:195
+msgid "Pick a primary color for the theme."
+msgstr ""
+
+#: ../library/theme-option.php:204
+msgid "Typography"
+msgstr ""
+
+#: ../library/theme-option.php:205
+msgid ""
+"It is recommended to use maximum 3 different font families for the sake of "
+"design consistency and load speed."
+msgstr ""
+
+#: ../library/theme-option.php:210
+msgid "Body text"
+msgstr ""
+
+#: ../library/theme-option.php:231
+msgid "Typography option for body text."
+msgstr ""
+
+#: ../library/theme-option.php:240
+msgid "Heading"
+msgstr ""
+
+#: ../library/theme-option.php:261 ../library/theme-option.php:351
+msgid "Typography option for title and heading."
+msgstr ""
+
+#: ../library/theme-option.php:270
+msgid "Secondary"
+msgstr ""
+
+#: ../library/theme-option.php:291
+msgid "Typography option for secondary text such as subtitle, sub menu, ..."
+msgstr ""
+
+#: ../library/theme-option.php:300
+msgid "Tertiary font"
+msgstr ""
+
+#: ../library/theme-option.php:321
+msgid "Typography option for tertiary text such as post meta, button, ..."
+msgstr ""
+
+#: ../library/theme-option.php:330
+msgid "Navigation"
+msgstr ""
+
+#: ../library/theme-option.php:359
+msgid "Text Button"
+msgstr ""
+
+#: ../library/theme-option.php:366
+msgid "Load More Text"
+msgstr ""
+
+#: ../library/theme-option.php:372
+msgid "No More Text"
+msgstr ""
+
+#: ../library/theme-option.php:384
+msgid "Module Heading Style"
+msgstr ""
+
+#: ../library/theme-option.php:389
+msgid "Default Module Heading"
+msgstr ""
+
+#: ../library/theme-option.php:390
+msgid "Default setting of all module heading style."
+msgstr ""
+
+#: ../library/theme-option.php:408
+msgid "Module Heading Text Color"
+msgstr ""
+
+#: ../library/theme-option.php:409 ../library/theme-option.php:434
+#: ../library/theme-option.php:444
+msgid "Pick a color for the heading."
+msgstr ""
+
+#: ../library/theme-option.php:418
+msgid "Default Widget Heading"
+msgstr ""
+
+#: ../library/theme-option.php:419
+msgid "Default setting of all widget heading style."
+msgstr ""
+
+#: ../library/theme-option.php:433
+msgid "Widget Heading Text Color"
+msgstr ""
+
+#: ../library/theme-option.php:443
+msgid "Footer Widget Heading Text Color"
+msgstr ""
+
+#: ../library/theme-option.php:453
+msgid "Header"
+msgstr ""
+
+#: ../library/theme-option.php:457
+msgid "Header Type"
+msgstr ""
+
+#: ../library/theme-option.php:458
+msgid "Choose a Header Type"
+msgstr ""
+
+#: ../library/theme-option.php:476
+msgid "Header Background Style"
+msgstr ""
+
+#: ../library/theme-option.php:479 ../library/theme-option.php:610
+#: ../library/theme-option.php:687 ../library/theme-option.php:2509
+#: ../library/theme-option.php:2975
+msgid "Default Background"
+msgstr ""
+
+#: ../library/theme-option.php:481 ../library/theme-option.php:611
+#: ../library/theme-option.php:622 ../library/theme-option.php:688
+#: ../library/theme-option.php:698 ../library/theme-option.php:2541
+#: ../library/theme-option.php:2976 ../library/theme-option.php:2986
+msgid "Background Gradient"
+msgstr ""
+
+#: ../library/theme-option.php:482 ../library/theme-option.php:612
+#: ../library/theme-option.php:647 ../library/theme-option.php:689
+#: ../library/theme-option.php:721 ../library/theme-option.php:2512
+#: ../library/theme-option.php:2564 ../library/theme-option.php:2977
+#: ../library/theme-option.php:3009
+msgid "Background Color"
+msgstr ""
+
+#: ../library/theme-option.php:492
+msgid "Header Background Image"
+msgstr ""
+
+#: ../library/theme-option.php:493 ../library/theme-option.php:2523
+msgid "Choose background image for the site header"
+msgstr ""
+
+#: ../library/theme-option.php:511
+msgid "Header Background Gradient"
+msgstr ""
+
+#: ../library/theme-option.php:525 ../library/theme-option.php:637
+#: ../library/theme-option.php:712 ../library/theme-option.php:2555
+#: ../library/theme-option.php:3000
+msgid "Gradient Direction(Degree Number)"
+msgstr ""
+
+#: ../library/theme-option.php:534
+msgid "Header Background Color"
+msgstr ""
+
+#: ../library/theme-option.php:535
+msgid "Choose background color for the site header"
+msgstr ""
+
+#: ../library/theme-option.php:559
+msgid "Header Padding"
+msgstr ""
+
+#: ../library/theme-option.php:569
+msgid "Header Text"
+msgstr ""
+
+#: ../library/theme-option.php:572 ../library/theme-option.php:666
+#: ../library/theme-option.php:740 ../library/theme-option.php:3028
+msgid "Black"
+msgstr ""
+
+#: ../library/theme-option.php:573 ../library/theme-option.php:667
+#: ../library/theme-option.php:741 ../library/theme-option.php:3029
+msgid "White"
+msgstr ""
+
+#: ../library/theme-option.php:578 ../library/theme-option.php:585
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../library/theme-option.php:586
+msgid "Enable / Disable Sticky Menu Function"
+msgstr ""
+
+#: ../library/theme-option.php:597
+msgid "Sticky Header Logo"
+msgstr ""
+
+#: ../library/theme-option.php:598
+msgid "Upload logo of your site that is displayed in sticky headeer"
+msgstr ""
+
+#: ../library/theme-option.php:599 ../library/theme-option.php:761
+#: ../library/theme-option.php:796 ../library/theme-option.php:835
+#: ../library/theme-option.php:886 ../library/theme-option.php:2428
+#: ../library/theme-option.php:2451 ../library/theme-option.php:2604
+#: ../library/theme-option.php:3101
+msgid "No media selected"
+msgstr ""
+
+#: ../library/theme-option.php:607
+msgid "Sticky Menu Background Style"
+msgstr ""
+
+#: ../library/theme-option.php:648
+msgid "Choose background color for the sticky menu"
+msgstr ""
+
+#: ../library/theme-option.php:663
+msgid "Sticky Menu Text"
+msgstr ""
+
+#: ../library/theme-option.php:677
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../library/theme-option.php:684
+msgid "Mobile Menu Background Style"
+msgstr ""
+
+#: ../library/theme-option.php:722
+msgid "Choose background color for the mobile menu"
+msgstr ""
+
+#: ../library/theme-option.php:737
+msgid "Mobile Menu Text"
+msgstr ""
+
+#: ../library/theme-option.php:751
+msgid "Site Branding"
+msgstr ""
+
+#: ../library/theme-option.php:759
+msgid "Site Logo"
+msgstr ""
+
+#: ../library/theme-option.php:760
+msgid "Upload logo of your site that is displayed in header"
+msgstr ""
+
+#: ../library/theme-option.php:769
+msgid "Site Logo Size Option "
+msgstr ""
+
+#: ../library/theme-option.php:770
+msgid "Select between Original Logo Image Size or Customize the Logo Size"
+msgstr ""
+
+#: ../library/theme-option.php:773
+msgid "Original Logo Image Size"
+msgstr ""
+
+#: ../library/theme-option.php:774
+msgid "Customize the Logo Size"
+msgstr ""
+
+#: ../library/theme-option.php:783 ../library/theme-option.php:2433
+#: ../library/theme-option.php:2609
+msgid "Site Logo Width (px)"
+msgstr ""
+
+#: ../library/theme-option.php:794
+msgid "Mobile Logo"
+msgstr ""
+
+#: ../library/theme-option.php:795
+msgid "Upload logo of your site that is displayed in mobile header"
+msgstr ""
+
+#: ../library/theme-option.php:805
+msgid "Off-Canvas Menu - Desktop"
+msgstr ""
+
+#: ../library/theme-option.php:812
+msgid "Off-Canvas Switch "
+msgstr ""
+
+#: ../library/theme-option.php:813
+msgid "Enable/Disable the Offcanvas Menu"
+msgstr ""
+
+#: ../library/theme-option.php:825 ../library/theme-option.php:877
+msgid "Select a Menu"
+msgstr ""
+
+#: ../library/theme-option.php:833 ../library/theme-option.php:884
+msgid "Off-Canvas Logo"
+msgstr ""
+
+#: ../library/theme-option.php:834 ../library/theme-option.php:885
+msgid "Upload logo of your site that is displayed in Off-Canvas Menu"
+msgstr ""
+
+#: ../library/theme-option.php:842 ../library/theme-option.php:892
+msgid "Off-Canvas Social Media"
+msgstr ""
+
+#: ../library/theme-option.php:843
+msgid "Set up social items for site"
+msgstr ""
+
+#: ../library/theme-option.php:858 ../library/theme-option.php:907
+#: ../library/theme-option.php:996 ../library/theme-option.php:2689
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: ../library/theme-option.php:859 ../library/theme-option.php:908
+#: ../library/theme-option.php:997 ../library/theme-option.php:2690
+msgid "Insert the Mailchimp Shortcode here"
+msgstr ""
+
+#: ../library/theme-option.php:869
+msgid "Off-canvas Menu - Mobile"
+msgstr ""
+
+#: ../library/theme-option.php:893
+msgid "Set up social links for site"
+msgstr ""
+
+#: ../library/theme-option.php:918
+msgid "Header Social Items"
+msgstr ""
+
+#: ../library/theme-option.php:926
+msgid "Social Media"
+msgstr ""
+
+#: ../library/theme-option.php:927
+msgid "Select social items for the website"
+msgstr ""
+
+#: ../library/theme-option.php:944
+msgid "Show Ads on this header instead of the Social Items"
+msgstr ""
+
+#: ../library/theme-option.php:954
+msgid "Header Ads"
+msgstr ""
+
+#: ../library/theme-option.php:962
+msgid "HTML Ads Code"
+msgstr ""
+
+#: ../library/theme-option.php:963
+msgid "Insert the HTML Ads Code here"
+msgstr ""
+
+#: ../library/theme-option.php:974
+msgid "Header Subscribe Form"
+msgstr ""
+
+#: ../library/theme-option.php:981
+msgid "Header Subscribe Switch"
+msgstr ""
+
+#: ../library/theme-option.php:982
+msgid "On/Off Header Subscribe"
+msgstr ""
+
+#: ../library/theme-option.php:989
+msgid "Mailchimp Form Title"
+msgstr ""
+
+#: ../library/theme-option.php:1009
+msgid "Social Media Links"
+msgstr ""
+
+#: ../library/theme-option.php:1014
+msgid "Social media"
+msgstr ""
+
+#: ../library/theme-option.php:1015
+msgid "Set up social links for the website"
+msgstr ""
+
+#: ../library/theme-option.php:1027
+msgid "Single Page"
+msgstr ""
+
+#: ../library/theme-option.php:1031
+msgid "Post View Cache Time (in second)"
+msgstr ""
+
+#: ../library/theme-option.php:1032
+msgid "Default: 300 means 5 minutes"
+msgstr ""
+
+#: ../library/theme-option.php:1044
+msgid "Post Layout"
+msgstr ""
+
+#: ../library/theme-option.php:1128
+msgid "Single Page Meta Items"
+msgstr ""
+
+#: ../library/theme-option.php:1132
+msgid "Author + Date"
+msgstr ""
+
+#: ../library/theme-option.php:1133
+msgid "Author + Date + Comments"
+msgstr ""
+
+#: ../library/theme-option.php:1134
+msgid "Author + Date + Views"
+msgstr ""
+
+#: ../library/theme-option.php:1135
+msgid "Author + Date + Comments + Views"
+msgstr ""
+
+#: ../library/theme-option.php:1136
+msgid "Author + Comments + Views"
+msgstr ""
+
+#: ../library/theme-option.php:1142
+msgid "Sections Sorter"
+msgstr ""
+
+#: ../library/theme-option.php:1154
+msgid "Comment Section"
+msgstr ""
+
+#: ../library/theme-option.php:1175
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:1176
+msgid "Choose sidebar for single page"
+msgstr ""
+
+#: ../library/theme-option.php:1183 ../library/theme-option.php:1807
+#: ../library/theme-option.php:1940 ../library/theme-option.php:2043
+#: ../library/theme-option.php:2174 ../library/theme-option.php:2378
+#: ../library/theme-option.php:2772 ../library/theme-option.php:2879
+msgid "Sidebar Postion"
+msgstr ""
+
+#: ../library/theme-option.php:1201 ../library/theme-option.php:1825
+#: ../library/theme-option.php:1958 ../library/theme-option.php:2061
+#: ../library/theme-option.php:2192 ../library/theme-option.php:2396
+#: ../library/theme-option.php:2790 ../library/theme-option.php:2897
+#: ../library/theme-option.php:2929
+msgid "Stick Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:1202 ../library/theme-option.php:1826
+#: ../library/theme-option.php:1959 ../library/theme-option.php:2062
+#: ../library/theme-option.php:2193 ../library/theme-option.php:2397
+#: ../library/theme-option.php:2791 ../library/theme-option.php:2898
+#: ../library/theme-option.php:2930
+msgid "Enable Stick Sidebar / Disable Stick Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:1217
+msgid "Social Share"
+msgstr ""
+
+#: ../library/theme-option.php:1224
+msgid "Enable share box"
+msgstr ""
+
+#: ../library/theme-option.php:1225
+msgid "Enable share links below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1227 ../library/theme-option.php:1237
+#: ../library/theme-option.php:1246 ../library/theme-option.php:1255
+#: ../library/theme-option.php:1264 ../library/theme-option.php:1273
+#: ../library/theme-option.php:1293 ../library/theme-option.php:1313
+#: ../library/theme-option.php:1339 ../library/theme-option.php:1425
+#: ../library/theme-option.php:1516 ../library/theme-option.php:1592
+msgid "Enabled"
+msgstr ""
+
+#: ../library/theme-option.php:1228 ../library/theme-option.php:1238
+#: ../library/theme-option.php:1247 ../library/theme-option.php:1256
+#: ../library/theme-option.php:1265 ../library/theme-option.php:1274
+#: ../library/theme-option.php:1294 ../library/theme-option.php:1314
+#: ../library/theme-option.php:1340 ../library/theme-option.php:1426
+#: ../library/theme-option.php:1517 ../library/theme-option.php:1593
+msgid "Disabled"
+msgstr ""
+
+#: ../library/theme-option.php:1235
+msgid "Enable Facebook share link"
+msgstr ""
+
+#: ../library/theme-option.php:1244
+msgid "Enable Twitter share link"
+msgstr ""
+
+#: ../library/theme-option.php:1253
+msgid "Enable Google+ share link"
+msgstr ""
+
+#: ../library/theme-option.php:1262
+msgid "Enable Pinterest share link"
+msgstr ""
+
+#: ../library/theme-option.php:1271
+msgid "Enable Linkedin share link"
+msgstr ""
+
+#: ../library/theme-option.php:1283
+msgid "Post Author Section Setting"
+msgstr ""
+
+#: ../library/theme-option.php:1290
+msgid "Enable author box"
+msgstr ""
+
+#: ../library/theme-option.php:1291
+msgid "Enable author information below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1303
+msgid "Post Nav Section Setting"
+msgstr ""
+
+#: ../library/theme-option.php:1310
+msgid "Enable post navigation"
+msgstr ""
+
+#: ../library/theme-option.php:1311
+msgid "Enable post navigation below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1325
+msgid "Advance Single Page - With Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:1329
+msgid "Related Posts Section Setting - Has Sidebar Layout"
+msgstr ""
+
+#: ../library/theme-option.php:1336
+msgid "Enable related posts"
+msgstr ""
+
+#: ../library/theme-option.php:1337 ../library/theme-option.php:1514
+msgid "Enable related posts below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1416
+msgid "More From Category Section Setting - Has Sidebar Layout"
+msgstr ""
+
+#: ../library/theme-option.php:1423
+msgid "Enable More From Category Section"
+msgstr ""
+
+#: ../library/theme-option.php:1502
+msgid "Advance Single Page - Full Width"
+msgstr ""
+
+#: ../library/theme-option.php:1506
+msgid "Related Posts Section Setting - Full Width Post Layout"
+msgstr ""
+
+#: ../library/theme-option.php:1513
+msgid "Enable related posts - Wide"
+msgstr ""
+
+#: ../library/theme-option.php:1522 ../library/theme-option.php:1598
+msgid "Layout - Wide"
+msgstr ""
+
+#: ../library/theme-option.php:1536 ../library/theme-option.php:1613
+msgid "Heading Style - Wide"
+msgstr ""
+
+#: ../library/theme-option.php:1555
+msgid "Related Posts - Wide"
+msgstr ""
+
+#: ../library/theme-option.php:1583
+msgid "More From Category Section Setting - Full Width Post Layout"
+msgstr ""
+
+#: ../library/theme-option.php:1590
+msgid "Enable More From Category Section - Wide"
+msgstr ""
+
+#: ../library/theme-option.php:1661
+msgid "Category Pages"
+msgstr ""
+
+#: ../library/theme-option.php:1662
+msgid "Only use for category pages"
+msgstr ""
+
+#: ../library/theme-option.php:1667
+msgid "Feature Area Layout"
+msgstr ""
+
+#: ../library/theme-option.php:1680 ../library/theme-option.php:1692
+msgid "Show Feature Area on only first page"
+msgstr ""
+
+#: ../library/theme-option.php:1706 ../library/theme-option.php:1850
+#: ../library/theme-option.php:2084 ../library/theme-option.php:2299
+#: ../library/theme-option.php:2814
+msgid "Page Heading"
+msgstr ""
+
+#: ../library/theme-option.php:1724 ../library/theme-option.php:1868
+#: ../library/theme-option.php:2102 ../library/theme-option.php:2727
+#: ../library/theme-option.php:2833
+msgid "Heading Color"
+msgstr ""
+
+#: ../library/theme-option.php:1725 ../library/theme-option.php:1869
+#: ../library/theme-option.php:2103 ../library/theme-option.php:2728
+#: ../library/theme-option.php:2834
+msgid "Pick a primary color for the heading."
+msgstr ""
+
+#: ../library/theme-option.php:1733 ../library/theme-option.php:1877
+#: ../library/theme-option.php:1981 ../library/theme-option.php:2111
+#: ../library/theme-option.php:2317
+msgid "Content Layout"
+msgstr ""
+
+#: ../library/theme-option.php:1767 ../library/theme-option.php:1911
+#: ../library/theme-option.php:2015 ../library/theme-option.php:2145
+#: ../library/theme-option.php:2351
+msgid "Pagination"
+msgstr ""
+
+#: ../library/theme-option.php:1768 ../library/theme-option.php:1912
+#: ../library/theme-option.php:2016 ../library/theme-option.php:2146
+#: ../library/theme-option.php:2352
+msgid "Select an option for the pagination"
+msgstr ""
+
+#: ../library/theme-option.php:1781
+msgid "[Content Section] Exclude Posts"
+msgstr ""
+
+#: ../library/theme-option.php:1799
+msgid "Category Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:1800
+msgid "Choose a sidebar for the category page"
+msgstr ""
+
+#: ../library/theme-option.php:1843
+msgid "Archive"
+msgstr ""
+
+#: ../library/theme-option.php:1844
+msgid "Archive Pages"
+msgstr ""
+
+#: ../library/theme-option.php:1845
+msgid "Use for Tag / Archive Pages"
+msgstr ""
+
+#: ../library/theme-option.php:1913
+msgid "This option is only valid on Tag Pages"
+msgstr ""
+
+#: ../library/theme-option.php:1932
+msgid "Archive Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:1933
+msgid "Choose a sidebar for the archive page"
+msgstr ""
+
+#: ../library/theme-option.php:1976
+msgid "Author Page"
+msgstr ""
+
+#: ../library/theme-option.php:2035
+msgid "Author Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:2036
+msgid "Choose a sidebar for the author page"
+msgstr ""
+
+#: ../library/theme-option.php:2079
+msgid "Search Page"
+msgstr ""
+
+#: ../library/theme-option.php:2166
+msgid "Search Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:2167
+msgid "Choose a sidebar for the search page"
+msgstr ""
+
+#: ../library/theme-option.php:2210
+msgid "Ajax Search Panel"
+msgstr ""
+
+#: ../library/theme-option.php:2220 ../library/theme-option.php:2252
+#: ../library/theme-option.php:2276
+msgid "Heading Text"
+msgstr ""
+
+#: ../library/theme-option.php:2227
+msgid "Sort By"
+msgstr ""
+
+#: ../library/theme-option.php:2246
+msgid "Tags Section"
+msgstr ""
+
+#: ../library/theme-option.php:2259
+msgid "Tags Select"
+msgstr ""
+
+#: ../library/theme-option.php:2270
+msgid "Popular Keywords Section"
+msgstr ""
+
+#: ../library/theme-option.php:2283
+msgid "Keywords"
+msgstr ""
+
+#: ../library/theme-option.php:2294
+msgid "Blog Page"
+msgstr ""
+
+#: ../library/theme-option.php:2370
+msgid "Blog Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:2371
+msgid "Choose a sidebar for the blog page"
+msgstr ""
+
+#: ../library/theme-option.php:2414
+msgid "404 Page"
+msgstr ""
+
+#: ../library/theme-option.php:2418
+msgid "404 Logo"
+msgstr ""
+
+#: ../library/theme-option.php:2426 ../library/theme-option.php:2602
+msgid "Logo"
+msgstr ""
+
+#: ../library/theme-option.php:2427
+msgid "Upload the logo that should be displayed in 404 page"
+msgstr ""
+
+#: ../library/theme-option.php:2449
+msgid "404 Image"
+msgstr ""
+
+#: ../library/theme-option.php:2450
+msgid "Leave this field empty if you would like to use the default option"
+msgstr ""
+
+#: ../library/theme-option.php:2455
+msgid "404 Text"
+msgstr ""
+
+#: ../library/theme-option.php:2463
+msgid "Main Text"
+msgstr ""
+
+#: ../library/theme-option.php:2470
+msgid "Sub Text"
+msgstr ""
+
+#: ../library/theme-option.php:2482
+msgid "Search Field"
+msgstr ""
+
+#: ../library/theme-option.php:2483
+msgid "Enable / Disable Search Field"
+msgstr ""
+
+#: ../library/theme-option.php:2495
+msgid "Coming Soon Page"
+msgstr ""
+
+#: ../library/theme-option.php:2499
+msgid "Coming Soon Background"
+msgstr ""
+
+#: ../library/theme-option.php:2506
+msgid "Background Style"
+msgstr ""
+
+#: ../library/theme-option.php:2511
+msgid "Background Image + Gradient Overlay"
+msgstr ""
+
+#: ../library/theme-option.php:2565
+msgid "Choose background color"
+msgstr ""
+
+#: ../library/theme-option.php:2580
+msgid "Background Blur"
+msgstr ""
+
+#: ../library/theme-option.php:2594
+msgid "Coming Soon Logo"
+msgstr ""
+
+#: ../library/theme-option.php:2603
+msgid "Upload the logo that should be displayed in coming soon page"
+msgstr ""
+
+#: ../library/theme-option.php:2623
+msgid "Coming Soon Introduction"
+msgstr ""
+
+#: ../library/theme-option.php:2631
+msgid "Introduction Text"
+msgstr ""
+
+#: ../library/theme-option.php:2632
+msgid "Be ready, we are launching soon."
+msgstr ""
+
+#: ../library/theme-option.php:2641
+msgid "Coming Soon Social"
+msgstr ""
+
+#: ../library/theme-option.php:2649
+msgid "Coming Soon Social Media"
+msgstr ""
+
+#: ../library/theme-option.php:2650
+msgid "Set up social items for the page"
+msgstr ""
+
+#: ../library/theme-option.php:2665
+msgid "Coming Soon Date"
+msgstr ""
+
+#: ../library/theme-option.php:2672
+msgid "Date (yyyy-mm-dd)"
+msgstr ""
+
+#: ../library/theme-option.php:2682
+msgid "Mailchimp Form"
+msgstr ""
+
+#: ../library/theme-option.php:2702 ../library/theme-option.php:2703
+msgid "Default Page Template"
+msgstr ""
+
+#: ../library/theme-option.php:2704
+msgid "Default Page Template Configuration"
+msgstr ""
+
+#: ../library/theme-option.php:2735
+msgid "Feature Image Show/Hide"
+msgstr ""
+
+#: ../library/theme-option.php:2764 ../library/theme-option.php:2871
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:2765 ../library/theme-option.php:2872
+msgid "Choose a sidebar for the page"
+msgstr ""
+
+#: ../library/theme-option.php:2808 ../library/theme-option.php:2809
+msgid "Authors List Page"
+msgstr ""
+
+#: ../library/theme-option.php:2810
+msgid "Authors List Page Configuration"
+msgstr ""
+
+#: ../library/theme-option.php:2841
+msgid "Authors List Page Layout"
+msgstr ""
+
+#: ../library/theme-option.php:2844
+msgid "Listing List"
+msgstr ""
+
+#: ../library/theme-option.php:2845
+msgid "Listing Grid"
+msgstr ""
+
+#: ../library/theme-option.php:2851
+msgid "Authors List Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:2861
+msgid "Authors List Sidebar Setting"
+msgstr ""
+
+#: ../library/theme-option.php:2915 ../library/theme-option.php:2916
+msgid "Pagebuilder Template"
+msgstr ""
+
+#: ../library/theme-option.php:2917
+msgid "Pagebuilder Template Configuration"
+msgstr ""
+
+#: ../library/theme-option.php:2947
+msgid "Footer"
+msgstr ""
+
+#: ../library/theme-option.php:2952
+msgid "Footer Layout"
+msgstr ""
+
+#: ../library/theme-option.php:2965
+msgid "Footer Background"
+msgstr ""
+
+#: ../library/theme-option.php:2972
+msgid "Footer Background Style"
+msgstr ""
+
+#: ../library/theme-option.php:3010
+msgid "Choose background color for the Footer"
+msgstr ""
+
+#: ../library/theme-option.php:3025
+msgid "Footer Text"
+msgstr ""
+
+#: ../library/theme-option.php:3045
+msgid "Footer Column Width"
+msgstr ""
+
+#: ../library/theme-option.php:3047
+msgid "1/3 1/3 1/3"
+msgstr ""
+
+#: ../library/theme-option.php:3048
+msgid "1/2 1/4 1/4"
+msgstr ""
+
+#: ../library/theme-option.php:3060
+msgid "Footer Column 1"
+msgstr ""
+
+#: ../library/theme-option.php:3071
+msgid "Footer Column 2"
+msgstr ""
+
+#: ../library/theme-option.php:3082
+msgid "Footer Column 3"
+msgstr ""
+
+#: ../library/theme-option.php:3090 ../library/theme-option.php:3099
+msgid "Footer Logo"
+msgstr ""
+
+#: ../library/theme-option.php:3100
+msgid "Upload the logo image that will be displayed in footer"
+msgstr ""
+
+#: ../library/theme-option.php:3106
+msgid "Footer Logo Width (px)"
+msgstr ""
+
+#: ../library/theme-option.php:3120
+msgid "Footer Bottom"
+msgstr ""
+
+#: ../library/theme-option.php:3132
+msgid "Footer Social"
+msgstr ""
+
+#: ../library/theme-option.php:3145
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../library/theme-option.php:3156
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:3157
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:3158
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:3162
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:3195 ../library/theme-option.php:3196
+msgid "Theme Options"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:155
+msgid "Login Successful, redirecting..."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:168
+msgid "Login successful, updating..."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:178
+#: ../plugins/login-with-ajax/login-with-ajax.php:237
+msgid "An undefined error has ocurred"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:182
+msgid "Please supply your username and password."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:203
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:216
+msgid "Registration has been disabled."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:228
+msgid "We have sent you an email"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_in.php:22
+#: ../plugins/login-with-ajax/modal/widget_in.php:61
+#: ../plugins/login-with-ajax/modal/widget_in.php:84
+msgid "Log Out"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_in.php:41
+msgid "Topics Started"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_in.php:46
+msgid "Replies Created"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_in.php:51
+msgid "Favorites"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_in.php:56
+msgid "Subscriptions"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_in.php:79
+msgid "Edit Profile"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:24
+#, php-format
+msgid "New user registration on your blog %s:"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:25
+#: ../plugins/login-with-ajax/pluggable.php:37
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:26
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:38
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:18
+msgid "Error: Please enter a username."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:20
+msgid ""
+"Error: This username is invalid because it uses illegal characters. Please "
+"enter a valid username."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:23
+msgid "Error:: This username is already registered. Please choose another one."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:28
+msgid "Error: Please type your e-mail address."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:30
+msgid "Error: The email address isn&#8217;t correct."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:33
+msgid "Error: This email is already registered, please choose another one."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:46
+#, php-format
+msgid "Error: Please contact the <a href=\"mailto:%s\">webmaster</a>."
+msgstr ""
+
+#: ../search.php:51
+#, php-format
+msgid "Search for: %s"
+msgstr ""
+
+#: ../search.php:52
+msgid "There are"
+msgstr ""
+
+#: ../search.php:52
+msgid "results"
+msgstr ""
